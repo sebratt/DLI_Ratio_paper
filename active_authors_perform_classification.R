@@ -1,5 +1,5 @@
 #This file is for building the performance classification using the active authors' publication
-#Joy
+#Qiaoyi Liu
 
 library(tidyverse)
 library(ggplot2)
