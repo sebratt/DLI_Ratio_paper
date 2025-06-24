@@ -1,4 +1,5 @@
 #This file is for calculating collaboration capacity from 1997 to 2020.
+#Qiaoyi Liu
 
 
 library(readr)
