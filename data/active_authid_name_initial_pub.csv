@@ -1,0 +1,1003 @@
+"","author_id","name_initial","name","num_ssid_1997","num_ssid_1998","num_ssid_1999","num_ssid_2000","num_ssid_2001","num_ssid_2002","num_ssid_2003","num_ssid_2004","num_ssid_2005","num_ssid_2006","num_ssid_2007","num_ssid_2008","num_ssid_2009","num_ssid_2010","num_ssid_2011","num_ssid_2012","num_ssid_2013","num_ssid_2014","num_ssid_2015","num_ssid_2016","num_ssid_2017"
+"1",1680212,"Pesole,G.","Graziano  Pesole",2,1,4,1,5,20,NA,1,25,2,15,2,3,3,1,NA,NA,3,2,NA,1
+"2",1681398,"Zhang,Y.","Yi  Zhang",NA,2,NA,NA,NA,1,3,NA,3,NA,1,4,2,5,4,4,4,3,2,1,3
+"3",1687893,"Li,Y.","Ying  Li",2,NA,NA,3,NA,1,5,NA,2,2,6,2,3,10,8,6,2,3,3,6,1
+"4",1691343,"Rogozin,I.B.","Igor B. Rogozin",1,2,1,2,3,2,3,2,1,NA,1,NA,NA,NA,5,1,NA,1,1,1,2
+"5",1691587,"Edwards,S.V.","Scott V.  Edwards",1,1,1,4,1,NA,NA,1,2,4,4,4,5,4,5,8,4,4,6,NA,1
+"6",1693570,"Schardl,C.L.","Christopher Lewis Schardl",2,NA,NA,NA,2,4,1,3,4,NA,2,3,5,NA,4,2,3,3,2,NA,1
+"7",1708018,"Parkhill,J.","Julian  Parkhill",NA,2,1,2,5,3,7,6,8,8,9,14,16,15,11,12,17,9,1,1,NA
+"8",1710015,"Cowan,D.A.","Don Arthur Cowan",NA,1,NA,NA,1,1,NA,NA,3,11,10,11,5,2,3,6,2,2,1,2,NA
+"9",1710360,"Van de Peer,Y.","Yves  Van de Peer",1,1,2,NA,NA,1,NA,1,1,NA,8,1,4,NA,4,1,1,2,1,2,2
+"10",1724820,"Meyers,B.C.","Blake C. Meyers",1,4,NA,NA,1,2,NA,3,NA,NA,2,2,1,NA,3,5,NA,NA,NA,1,2
+"11",1724867,"Wang,E.","En-Tao  Wang",1,2,2,1,2,4,2,1,2,7,9,17,13,5,24,7,7,9,14,9,7
+"12",1729256,"Marchal,K.","Kathleen  Marchal",NA,1,NA,1,NA,NA,NA,3,NA,NA,1,NA,NA,NA,1,NA,NA,2,NA,1,NA
+"13",1739958,"Muller,N.","Norbert  Müller",2,NA,NA,NA,1,NA,NA,2,1,NA,1,NA,4,2,NA,2,1,1,1,1,NA
+"14",1744109,"Salzberg,S.L.","Steven L.  Salzberg",1,2,3,7,2,11,2,1,39,NA,13,9,1,5,4,1,NA,9,4,1,1
+"15",1758302,"Gojobori,T.","Takashi  Gojobori",4,1,7,5,6,29,9,3,28,4,4,3,1,6,1,7,3,2,3,NA,NA
+"16",1766954,"Walker,B.D.","Bruce D.  Walker",1,2,3,2,1,1,NA,4,2,4,5,7,11,2,4,5,1,5,6,3,NA
+"17",1768658,"Vlak,J.M.","Just M. Vlak",8,9,4,5,4,1,2,2,5,1,3,3,NA,NA,1,NA,1,NA,1,1,1
+"18",1771503,"Kohara,Y.","Yuji  Kohara",NA,NA,1,1,3,2,12,19,5,4,13,4,1,9,6,6,5,1,1,10,1
+"19",1771588,"Cui,X.","Xiao-Long  Cui",NA,NA,1,NA,1,1,4,2,NA,1,2,6,23,5,1,2,3,1,2,1,NA
+"20",1773482,"Suzuki,G.","Go  Suzuki",2,NA,1,2,1,NA,2,3,1,1,NA,3,NA,5,2,2,1,NA,NA,1,1
+"21",1779521,"Hall,R.M.","Ruth M.  Hall",NA,1,3,NA,4,5,4,1,3,2,2,1,4,6,7,8,11,15,9,9,6
+"22",1779626,"Robertson,D.L.","David L. Robertson",2,3,2,NA,5,2,2,3,4,NA,1,NA,1,NA,NA,NA,1,1,2,NA,NA
+"23",1785477,"Dan,A.","Ádám  Dán",NA,1,NA,1,2,1,2,1,NA,NA,2,1,2,5,2,6,1,3,4,1,3
+"24",1800283,"Blinov,A.G.","Alexander G Blinov",1,1,NA,1,1,2,NA,1,NA,2,5,1,NA,3,NA,3,NA,NA,2,NA,1
+"25",1815492,"Hashimoto,T.","Tetsuo  Hashimoto",1,1,1,NA,NA,6,2,7,6,NA,5,3,4,4,7,4,2,5,NA,3,1
+"26",1816895,"Kampfer,P.","Peter  Kämpfer",1,1,5,5,5,18,10,6,17,20,15,18,12,30,17,25,27,15,38,20,15
+"27",1823498,"Miura,T.","Toru  Miura",NA,2,2,1,NA,2,NA,NA,3,1,2,NA,NA,4,NA,3,2,2,13,6,NA
+"28",1824294,"Feil,E.J.","Edward J. Feil",NA,1,1,NA,1,1,2,1,1,1,5,4,2,2,2,1,4,NA,NA,1,NA
+"29",1832489,"Perelson,A.S.","Alan S. Perelson",NA,NA,2,NA,NA,1,NA,NA,1,NA,NA,1,2,1,1,3,1,NA,3,NA,NA
+"30",1843807,"Donoghue,M.J.","Michael J. Donoghue",4,3,3,2,2,3,1,3,4,2,1,8,2,2,3,5,NA,3,2,1,NA
+"31",1850174,"Nylander,J.A.","Johan A. A. Nylander",NA,NA,1,NA,NA,1,NA,3,NA,NA,1,NA,4,2,NA,NA,NA,1,1,NA,NA
+"32",1851260,"Levis,S.M.","Silvana M C Levis",NA,1,NA,1,NA,2,1,3,NA,1,1,NA,NA,2,1,1,NA,1,1,NA,1
+"33",1851638,"Suarez,D.L.","David L.  Suarez",4,2,1,2,NA,3,1,6,9,2,9,4,2,NA,2,NA,1,NA,NA,NA,3
+"34",1853116,"Weaver,S.C.","Scott C. Weaver",2,3,6,4,7,1,1,4,2,4,2,2,5,4,1,5,3,4,7,7,3
+"35",1854599,"Currie,B.J.","Bart J. Currie",1,NA,NA,1,NA,1,5,6,2,1,3,2,1,NA,3,6,2,1,4,1,4
+"36",1857782,"Koizumi,N.","Nobuo  Koizumi",1,NA,2,NA,1,NA,1,2,1,NA,NA,1,7,1,1,2,2,2,2,NA,1
+"37",1867785,"Horner,D.S.","David S. Horner",NA,NA,2,1,2,3,3,NA,1,NA,9,NA,NA,2,2,NA,3,NA,NA,NA,1
+"38",1869768,"Volckaert,F.A.","Filip A. M.  Volckaert",1,NA,2,NA,1,3,5,3,2,2,2,2,2,2,2,6,1,3,4,1,NA
+"39",1870663,"Worley,K.C.","Kim C. Worley",5,NA,NA,4,13,8,NA,4,8,6,NA,2,5,3,2,4,NA,5,6,2,2
+"40",1873440,"Kan,J.A.","Jan A. L. van Kan",1,2,1,1,NA,1,NA,3,2,NA,4,1,NA,1,5,3,2,2,NA,NA,2
+"41",1874472,"Postlethwait,J.H.","John H.  Postlethwait",NA,5,3,1,9,7,9,9,8,2,5,1,2,6,3,1,7,2,NA,1,1
+"42",1880360,"Takashima,M.","Masako  Takashima",NA,2,2,5,10,6,4,6,4,2,1,NA,1,3,2,3,NA,3,3,NA,2
+"43",1881190,"Nielsen,P.H.","Per Halkjaer  Nielsen",NA,NA,1,NA,NA,1,1,1,2,5,8,2,1,NA,6,7,5,5,4,1,2
+"44",1885657,"Boyle,D.B.","David B. Boyle",4,NA,1,NA,1,NA,1,2,3,NA,1,2,1,NA,NA,3,NA,2,1,NA,2
+"45",1887748,"Rohde,M.","Manfred  Rohde",NA,2,3,1,5,4,5,6,4,7,2,3,17,51,41,18,19,9,8,8,10
+"46",1912975,"Tozawa,Y.","Yuzuru  Tozawa",2,1,NA,NA,1,1,NA,2,1,2,2,1,1,NA,3,NA,NA,2,2,NA,NA
+"47",1915637,"Nuss,D.L.","Donald. L. Nuss",1,2,3,1,NA,NA,2,1,1,1,3,2,2,2,3,1,NA,2,1,NA,NA
+"48",1930281,"Kaneko,T.","Takakazu  Kaneko",4,5,2,12,3,9,9,NA,8,1,4,5,5,2,4,5,2,NA,2,NA,2
+"49",1932379,"Barnwell,J.W.","John W. Barnwell",NA,NA,5,1,2,6,1,4,5,NA,1,3,4,5,NA,5,4,1,2,3,NA
+"50",1939517,"Gill,B.S.","Bikram S. Gill",1,1,NA,NA,1,7,3,4,3,6,NA,2,1,3,2,1,2,3,NA,2,1
+"51",1940158,"Sugiyama,J.","Junta  Sugiyama",5,2,4,2,1,2,NA,2,NA,2,NA,2,3,NA,1,2,1,NA,2,3,4
+"52",1942713,"Ebel,G.D.","Gregory D.  Ebel",NA,NA,1,NA,2,1,NA,2,3,NA,1,1,1,1,1,NA,1,NA,2,2,NA
+"53",1942947,"Okamoto,H.","Hiroaki  Okamoto",3,3,4,8,4,6,7,10,12,7,15,5,11,6,5,5,7,9,9,5,8
+"54",1950352,"van Sinderen,D.","Douwe  van Sinderen",5,NA,1,5,2,4,3,4,10,13,6,2,5,3,5,1,6,9,4,2,5
+"55",1950529,"Henrissat,B.","Bernard  Henrissat",NA,3,NA,4,1,NA,NA,NA,2,NA,7,12,14,14,12,17,5,8,4,2,2
+"56",1961140,"Hellemans,B.","Bart  Hellemans",NA,NA,2,NA,NA,1,3,4,NA,1,1,1,2,NA,NA,2,1,1,1,NA,NA
+"57",1966304,"Medigue,C.","Claudine  Médigue",2,NA,NA,NA,NA,1,4,2,1,3,8,5,6,7,6,5,7,3,NA,1,NA
+"58",1966538,"Mizokami,M.","Masashi  Mizokami",6,4,5,3,5,8,3,10,2,9,9,8,4,4,2,5,2,NA,NA,NA,1
+"59",1977803,"Liesack,W.","Werner  Liesack",5,7,6,6,6,4,5,4,5,6,5,2,1,5,4,4,NA,NA,NA,1,1
+"60",1978243,"Horii,T.","Toshihiro  Horii",1,NA,NA,1,NA,1,1,3,1,1,4,2,NA,5,3,7,1,NA,2,1,1
+"61",1978283,"Keim,P.S.","Paul S. Keim",2,NA,3,2,2,3,NA,1,4,NA,3,1,4,1,5,6,4,2,3,NA,1
+"62",1978763,"Simmons,M.P.","Mark P. Simmons",NA,1,NA,NA,2,NA,NA,1,2,5,2,1,NA,1,5,3,4,2,NA,1,1
+"63",1992916,"Ito,M.","Motomi  Ito",NA,NA,1,2,NA,1,6,3,4,5,2,4,1,5,3,NA,4,1,1,2,1
+"64",1999355,"Delong,E.F.","Edward F.  DeLong",2,2,5,5,4,6,7,5,2,12,8,3,3,1,4,NA,1,1,3,NA,NA
+"65",2007937,"Inoko,H.","Hidetoshi  Inoko",9,11,10,4,6,7,8,9,8,6,3,3,7,1,5,3,2,3,1,1,NA
+"66",2008593,"Gasser,R.B.","Robin B.  Gasser",5,12,12,4,6,8,8,8,6,11,11,10,13,8,10,12,17,19,6,13,9
+"67",2009606,"Escalante,A.A.","Ananias A.  Escalante",NA,1,2,NA,1,4,1,1,2,3,2,1,1,7,7,6,9,4,5,4,2
+"68",2010467,"Janke,A.","Axel  Janke",4,8,1,5,2,8,8,7,1,5,4,4,1,1,NA,2,3,5,2,2,1
+"69",2010756,"Glenn,T.C.","Travis C.  Glenn",1,1,2,NA,1,5,8,2,2,2,7,8,11,NA,3,5,1,5,6,NA,2
+"70",2011972,"Lukes,J.","Julius  Lukeš",2,3,2,7,6,9,3,3,1,13,4,4,7,7,4,11,6,8,15,10,5
+"71",2016266,"Masuzawa,T.","Toshiyuki  Masuzawa",4,NA,1,NA,4,NA,2,3,2,2,2,2,1,1,3,NA,3,2,2,NA,NA
+"72",2022481,"Lan,R.","Ruiting  Lan",1,2,1,3,2,1,2,2,3,2,1,2,2,2,3,5,6,2,4,5,3
+"73",2023657,"Wolinsky,S.M.","Steven M. Wolinsky",1,2,3,NA,2,1,2,1,3,1,4,3,NA,NA,1,NA,2,2,NA,1,NA
+"74",2025616,"Hendrix,R.W.","Roger W. Hendrix",NA,3,1,3,NA,1,2,2,1,1,3,1,2,NA,4,NA,2,2,2,NA,NA
+"75",2028042,"Tsuboi,T.","Takafumi  Tsuboi",2,1,1,NA,4,2,5,2,1,2,NA,1,2,NA,1,NA,2,1,1,1,NA
+"76",2033416,"Stougaard,J.","Jens  Stougaard",1,NA,1,NA,NA,6,8,NA,7,5,1,4,6,4,1,4,1,1,2,1,NA
+"77",2035386,"Zehr,J.P.","Jonathan P. Zehr",2,2,2,2,6,3,1,3,NA,9,8,6,3,1,3,3,2,6,1,2,NA
+"78",2047465,"Giraud,E.","Eric  Giraud",1,NA,1,4,3,1,NA,2,NA,NA,4,NA,NA,NA,1,NA,3,1,5,1,2
+"79",2049471,"Chilton,N.B.","Neil B.  Chilton",5,11,8,3,4,5,4,NA,3,4,4,1,6,3,7,1,6,6,4,1,1
+"80",2053789,"Amann,R.I.","Rudolf I. Amann",2,3,6,9,12,3,11,5,14,7,11,4,6,8,15,7,8,1,2,5,2
+"81",2068869,"Learn,G.H.","Gerald H.  Learn",2,9,4,2,2,1,2,1,4,4,1,NA,9,5,4,6,5,5,5,12,8
+"82",2076033,"Geiser,D.M.","David M. Geiser",NA,2,NA,1,2,1,2,3,4,5,5,3,7,3,1,1,2,2,1,2,1
+"83",2086979,"Hattori,M.","Masahira  Hattori",6,1,2,23,21,6,5,12,7,10,2,15,6,4,21,14,15,11,19,4,7
+"84",2090852,"Berg,D.E.","Douglas E.  Berg",1,6,3,3,2,2,6,7,NA,1,3,2,1,3,3,1,6,1,1,1,NA
+"85",2091265,"Bonfante,P.","Paola  Bonfante",NA,3,4,3,3,7,3,2,5,10,4,6,7,4,3,6,4,5,1,NA,1
+"86",2092763,"Jermiin,L.S.","Lars S. Jermiin",3,4,1,2,3,1,1,3,2,NA,3,NA,2,NA,NA,NA,1,NA,NA,1,4
+"87",2101134,"Hankeln,T.","Thomas  Hankeln",NA,2,2,2,2,3,1,2,4,7,4,2,NA,2,NA,2,2,5,NA,1,1
+"88",2102477,"Goffinet,B.","Bernard  Goffinet",1,1,1,8,NA,1,2,4,2,3,2,4,NA,2,5,5,4,5,6,6,7
+"89",2106611,"Wilke,T.","Thomas  Wilke",NA,1,NA,3,2,2,3,5,NA,1,3,3,3,NA,3,2,4,3,3,5,2
+"90",2107733,"Morgante,M.","Michele  Morgante",2,1,NA,NA,1,4,1,3,1,1,9,NA,NA,NA,4,1,4,1,1,1,NA
+"91",2110930,"Terauchi,R.","Ryohei  Terauchi",4,1,1,2,1,NA,2,NA,3,NA,4,3,1,NA,1,2,2,1,10,1,2
+"92",2126195,"Jeanthon,C.","Christian  Jeanthon",1,2,1,NA,5,2,5,2,9,4,NA,1,NA,1,3,NA,2,2,1,1,NA
+"93",2141801,"Asakawa,S.","Shuichi  Asakawa",1,6,2,14,3,6,3,9,4,6,4,1,1,NA,1,NA,NA,4,2,2,NA
+"94",2155328,"Palmer,J.D.","Jeffrey D.  Palmer",2,2,5,9,8,4,2,7,NA,5,2,5,NA,6,4,2,5,NA,4,3,NA
+"95",2159352,"Ohno,M.","Motonori  Ohno",2,NA,1,1,NA,1,2,NA,NA,1,NA,1,1,1,1,1,1,3,1,1,NA
+"96",2165492,"Mccouch,S.R.","Susan R.  McCouch",2,1,NA,2,1,NA,1,1,NA,4,3,NA,3,NA,NA,NA,NA,1,1,2,1
+"97",2166497,"Pontarotti,P.A.","Pierre Antoine Pontarotti",4,2,1,NA,NA,2,3,NA,1,NA,1,2,NA,NA,4,NA,1,1,NA,1,NA
+"98",2170730,"Depamphilis,C.W.","Claude W.  dePamphilis",3,1,1,2,1,3,NA,NA,5,3,6,7,NA,1,4,1,3,1,1,4,NA
+"99",2170993,"Bowen,B.W.","BRIAN W.  BOWEN",2,2,5,4,1,1,1,NA,3,3,4,4,2,9,6,6,4,5,2,5,2
+"100",2171623,"Houben,A.","Andreas  Houben",1,1,NA,1,NA,NA,1,NA,2,1,1,NA,1,4,2,1,2,1,1,4,1
+"101",2175054,"Oren,A.","Aharon  Oren",NA,2,1,1,NA,1,NA,5,3,NA,8,4,7,7,5,2,5,3,2,2,NA
+"102",2175328,"Crandall,K.A.","Keith A.  Crandall",3,1,3,7,1,1,1,4,5,7,7,7,9,3,5,10,2,4,1,1,5
+"103",2187471,"Kulski,J.K.","Jerzy Kazimierz Kulski",1,NA,NA,2,2,4,3,5,6,5,NA,3,3,NA,NA,2,2,2,1,NA,NA
+"104",2190396,"Glockner,G.","Gernot  Glöckner",1,1,1,2,2,1,1,2,6,5,4,5,2,1,2,1,6,NA,1,NA,NA
+"105",2192391,"Makarova,K.S.","Kira S. Makarova",NA,NA,1,NA,2,1,1,1,1,2,NA,7,NA,NA,2,1,NA,NA,1,1,1
+"106",2196335,"Foster,G.","Geoffrey  Foster",1,2,8,5,8,4,1,4,4,1,NA,NA,NA,NA,1,2,1,2,1,NA,3
+"107",2198395,"Overmann,J.","Jörg  Overmann",1,3,1,1,2,2,5,2,7,4,6,3,2,NA,5,6,6,3,7,14,20
+"108",2208383,"Cribb,T.H.","Thomas H.  Cribb",NA,NA,1,NA,1,NA,2,2,2,4,5,2,3,5,3,1,7,11,6,11,10
+"109",2214207,"Soares,M.A.","Marcelo Alves Soares",2,NA,NA,NA,NA,1,1,5,3,4,NA,NA,1,2,4,1,4,1,5,1,2
+"110",2223499,"Guillou,L.","Laure  Guillou",NA,1,4,1,1,3,NA,7,1,1,NA,3,NA,2,4,3,NA,3,1,2,1
+"111",2228181,"Schulman,A.H.","Alan H. Schulman",1,2,2,1,4,1,NA,3,1,3,1,7,2,NA,2,NA,NA,1,NA,1,1
+"112",2232660,"Braun,E.L.","Edward L. Braun",8,1,4,1,3,NA,3,1,NA,NA,4,6,1,1,2,1,3,6,2,2,4
+"113",2238040,"Okano,H.","Hideyuki  Okano",NA,3,3,3,4,3,NA,1,6,1,NA,NA,1,NA,NA,1,3,NA,3,1,NA
+"114",2245636,"Horiguchi,T.","Takeo  Horiguchi",NA,NA,1,2,2,3,2,1,2,3,3,1,2,NA,2,2,4,3,6,3,5
+"115",2257544,"Kalinowski,J.","Jörn  Kalinowski",NA,1,NA,NA,NA,4,9,4,2,2,1,2,NA,NA,2,5,5,8,5,4,3
+"116",2260845,"Haydon,D.T.","Daniel T. Haydon",1,NA,NA,1,4,2,1,NA,NA,1,2,4,1,NA,NA,1,3,2,1,NA,NA
+"117",2282838,"Fukushi,S.","Shuetsu  Fukushi",NA,1,1,1,1,2,NA,1,NA,1,3,NA,2,1,NA,NA,3,2,2,NA,1
+"118",2285010,"Nevo,E.","Eviatar  Nevo",NA,NA,4,NA,4,5,2,7,6,5,2,5,1,3,2,4,3,6,2,NA,NA
+"119",2289922,"Buck,G.A.","Gregory A.  Buck",2,2,3,3,2,1,1,1,NA,NA,2,NA,NA,1,2,3,2,1,4,NA,2
+"120",2306084,"Goodfellow,M.","Michael  Goodfellow",3,4,9,7,8,6,11,15,9,13,16,8,1,6,8,12,14,6,5,11,5
+"121",2313711,"Dougan,G.","Gordon  Dougan",1,3,2,NA,4,1,3,NA,2,3,5,2,6,8,6,6,3,7,3,NA,NA
+"122",2332485,"Sugiyama,M.","Makoto  Sugiyama",1,NA,NA,NA,2,1,3,NA,NA,NA,1,1,2,1,2,NA,1,NA,NA,3,NA
+"123",2338971,"Harrington,T.C.","Thomas C.  Harrington",NA,1,2,3,3,1,4,3,5,2,NA,3,1,6,5,1,NA,4,4,1,6
+"124",2343284,"Kurokawa,K.","Ken  Kurokawa",NA,NA,2,4,1,1,3,1,2,NA,2,3,3,2,3,2,3,5,3,2,1
+"125",2361982,"Snow,M.","Michael  Snow",NA,NA,1,1,1,1,1,1,NA,NA,NA,1,3,1,2,1,2,1,3,1,NA
+"126",2378282,"Hahn,M.E.","Mark E. Hahn",1,1,5,2,2,5,NA,5,2,3,1,2,2,2,2,1,4,NA,1,NA,2
+"127",2383680,"Vandamme,P.A.","Peter A R Vandamme",3,2,9,8,12,10,7,13,14,11,13,18,14,10,10,8,24,29,20,12,7
+"128",2388714,"Camp,H.J.","Huub J. M.  Op den Camp",1,NA,4,1,NA,3,3,NA,1,5,7,3,2,2,7,10,8,2,2,3,NA
+"129",2400405,"Comai,L.","Luca  Comai",NA,1,NA,1,1,1,NA,1,NA,NA,NA,1,1,1,NA,NA,NA,1,2,1,NA
+"130",2406907,"Itoh,T.","Takashi  Itoh",NA,4,1,2,2,1,3,2,5,6,11,2,5,8,6,2,11,3,5,3,1
+"131",2409859,"Erdman,D.D.","Dean D. Erdman",NA,NA,1,1,1,1,1,2,2,3,1,2,1,2,1,NA,1,2,1,3,1
+"132",2424404,"Mackenzie,J.S.","John S.  Mackenzie",NA,NA,4,4,2,NA,2,1,2,2,1,1,NA,2,1,NA,NA,1,1,2,1
+"133",2433812,"Brinkhoff,T.","Thorsten  Brinkhoff",2,4,3,1,NA,NA,1,3,4,NA,4,1,2,2,3,8,9,1,4,1,4
+"134",2447077,"Spring,S.","Stefan  Spring",1,1,2,3,1,NA,4,3,6,4,3,1,10,23,15,9,7,1,3,2,2
+"135",2453924,"Cummings,M.P.","MICHAEL P.  CUMMINGS",1,2,NA,1,NA,2,1,1,NA,NA,NA,3,2,NA,3,1,2,NA,NA,1,1
+"136",2457305,"Vinuesa,P.","Pablo  Vinuesa",NA,NA,1,NA,1,NA,2,NA,5,3,NA,3,1,NA,3,1,NA,NA,2,4,NA
+"137",2467018,"Giovannoni,J.J.","James J. Giovannoni",NA,NA,1,NA,NA,3,NA,3,1,4,NA,6,NA,6,2,8,NA,2,NA,NA,1
+"138",2473775,"Morgado,M.G.","Mariza Gonçalves Morgado",NA,1,2,1,NA,3,3,NA,NA,5,5,1,3,1,2,4,3,2,1,7,1
+"139",2476277,"Kimball,R.T.","Rebecca T. Kimball",1,NA,1,1,4,1,2,1,NA,1,6,6,2,1,2,1,3,3,1,3,4
+"140",2501601,"Kurtzman,C.P.","Cletus Paul Kurtzman",NA,2,1,3,5,NA,9,2,4,1,8,2,2,4,4,8,3,2,3,1,1
+"141",2507027,"Afonso,C.L.","Claudio L.  Afonso",NA,NA,1,2,4,4,2,2,1,3,6,3,2,4,NA,8,5,3,4,4,3
+"142",2510512,"Rosenthal,B.M.","Benjamin M.  Rosenthal",1,1,1,2,5,2,1,2,4,5,2,2,2,3,4,4,4,1,3,5,6
+"143",2511104,"Morikawa,S.","Shigeru  Morikawa",NA,1,2,NA,1,3,NA,2,2,1,4,1,2,2,2,3,6,5,4,5,NA
+"144",2515416,"Moran,N.A.","Nancy A.  Moran",2,2,3,8,8,5,6,NA,7,7,3,7,12,4,6,8,6,7,NA,3,NA
+"145",2518197,"Swings,J.","Jean  Swings",2,3,3,3,11,15,27,28,33,23,6,4,2,NA,1,1,NA,1,3,NA,NA
+"146",2525306,"Conrad,P.A.","Patricia A. Conrad",1,1,3,4,3,1,NA,1,4,1,1,1,1,3,2,2,NA,2,2,NA,NA
+"147",2542440,"Huchon,D.","Dorothée  Huchon",NA,NA,3,1,1,4,2,NA,1,9,3,2,5,3,NA,5,3,3,1,3,3
+"148",2542871,"Briese,T.","Thomas  Briese",NA,NA,1,NA,1,1,NA,1,NA,3,5,6,3,9,6,3,7,6,NA,4,NA
+"149",2548987,"Massana,R.","Ramon  Massana",1,NA,NA,2,1,6,5,7,6,4,5,5,3,1,5,7,4,1,1,NA,NA
+"150",2549797,"Schluter,A.A.","And Andreas Schlüter",1,NA,NA,1,NA,NA,3,3,3,2,4,NA,2,NA,5,5,2,4,3,4,NA
+"151",2557304,"Sorokin,D.Y.","Dimitry Yu. Sorokin",NA,1,NA,NA,2,2,1,3,3,6,13,21,3,6,7,12,3,9,9,7,5
+"152",2565838,"Sata,T.","Tetsutaro  Sata",2,NA,NA,1,3,NA,4,2,6,3,6,NA,1,5,1,3,1,NA,1,NA,NA
+"153",2569654,"Bisseling,T.","Ton  Bisseling",1,1,NA,NA,NA,3,5,4,NA,NA,1,1,NA,NA,7,2,NA,1,NA,NA,1
+"154",2570817,"Saunders,G.W.","Gary W.  Saunders",2,2,2,2,2,3,1,1,2,NA,6,5,2,6,6,3,7,3,9,7,6
+"155",2571951,"Yamato,K.T.","Katsuyuki T.  Yamato",NA,NA,2,2,4,1,3,3,1,2,3,NA,1,1,NA,2,NA,2,1,4,1
+"156",2587029,"Kawazu,S.","Shin-ichiro  Kawazu",NA,1,2,1,1,NA,2,NA,1,NA,1,NA,2,1,1,NA,1,NA,NA,4,1
+"157",2592873,"Whitman,W.B.","William Barney Whitman",6,NA,6,NA,1,2,6,2,1,5,4,4,4,3,6,3,1,1,NA,2,7
+"158",2618863,"Ryder,O.A.","Oliver A.  Ryder",NA,2,1,1,10,NA,1,6,3,3,1,1,7,3,9,3,2,1,1,NA,NA
+"159",2623566,"Newcomb,R.D.","Richard D.  Newcomb",2,NA,NA,3,2,2,NA,NA,2,6,4,3,3,NA,1,3,1,3,1,1,1
+"160",2632988,"Boni,J.","Jürg  Böni",2,NA,NA,NA,NA,1,NA,2,1,NA,4,3,NA,4,3,NA,NA,1,1,3,NA
+"161",2639444,"Delsuc,F.","Frédéric  Delsuc",NA,NA,1,NA,1,1,3,NA,1,1,6,2,2,5,3,7,2,1,NA,3,NA
+"162",2639935,"Kuratani,S.","Shigeru  Kuratani",NA,1,1,1,2,NA,1,6,6,2,3,4,3,2,9,4,6,NA,3,2,1
+"163",2646755,"King,D.P.","Donald P. King",1,1,NA,1,NA,2,NA,4,2,1,2,3,3,3,3,4,8,6,1,6,1
+"164",2657181,"Mansoor,S.","Shahid  Mansoor",NA,NA,1,1,1,NA,2,1,NA,2,2,2,8,10,4,6,2,5,2,2,9
+"165",2658444,"Kellogg,E.A.","Elizabeth A. Kellogg",1,1,NA,4,1,2,1,3,1,4,5,2,2,1,1,8,NA,3,2,2,1
+"166",2665345,"Backeljau,T.","Thierry  Backeljau",NA,4,NA,1,NA,1,NA,1,5,5,4,4,6,6,1,1,6,2,6,5,2
+"167",2675905,"Hamada,S.","Shigeyuki  Hamada",1,1,NA,3,NA,4,1,NA,1,NA,1,2,2,NA,2,NA,2,1,1,NA,1
+"168",2678989,"Kosoy,M.Y.","Michael Y. Kosoy",1,NA,NA,NA,NA,1,7,1,2,NA,3,4,5,11,5,13,4,4,7,NA,10
+"169",2706887,"Madigan,M.T.","Michael T. Madigan",NA,NA,1,2,2,NA,3,1,2,3,3,3,3,1,1,2,1,NA,2,NA,NA
+"170",2707441,"Klotz,M.G.","Martin Gunter Klotz",1,1,2,NA,NA,4,1,3,1,1,1,4,1,9,5,1,7,1,3,NA,NA
+"171",2707756,"Gunthard,H.F.","Huldrych F. Günthard",1,NA,3,NA,1,NA,NA,2,3,NA,6,6,2,4,3,4,NA,NA,NA,3,2
+"172",2725414,"McManus,D.P.","Donald Peter McManus",4,1,7,8,2,6,9,2,6,9,1,4,3,3,2,1,1,NA,3,1,1
+"173",2727791,"Ritchie,P.A.","Peter A. Ritchie",1,NA,NA,1,NA,2,2,2,NA,NA,1,6,3,3,NA,3,1,2,NA,1,1
+"174",2732711,"Kuznetsov,B.B.","Boris B. Kuznetsov",NA,NA,1,11,6,5,NA,1,2,5,NA,1,1,NA,7,3,5,7,2,4,1
+"175",2745818,"Mcfadden,G.I.","Geoffrey I.  McFadden",NA,6,2,3,NA,3,1,1,1,1,1,NA,NA,NA,1,2,2,1,1,1,NA
+"176",2751933,"Igarashi,I.","Ikuo  Igarashi",3,NA,2,NA,6,1,3,3,3,3,4,3,7,3,8,5,9,5,1,4,1
+"177",2758569,"Imhoff,J.F.","Johannes F.  Imhoff",2,6,1,2,1,1,1,1,1,4,10,11,13,9,7,4,6,1,4,3,2
+"178",2766380,"Emerson,B.C.","BRENT C.  EMERSON",NA,1,1,2,2,1,4,1,2,4,1,4,1,2,2,4,5,2,1,1,NA
+"179",2770407,"Partensky,F.","Frédéric  Partensky",NA,NA,4,3,2,2,4,NA,1,2,2,NA,2,1,2,2,3,2,NA,4,2
+"180",2778306,"Lipski,A.","André  Lipski",NA,2,NA,1,NA,1,1,1,NA,2,2,4,NA,NA,8,1,6,3,NA,1,3
+"181",2780380,"Ikeo,K.","Kazuho  Ikeo",1,NA,3,4,1,6,7,2,26,5,1,2,3,2,NA,1,1,NA,3,NA,1
+"182",2787983,"James,A.A.","Anthony Amade James",4,2,15,2,1,1,1,5,4,5,1,2,NA,2,1,NA,2,2,2,NA,NA
+"183",2797219,"Mindell,D.P.","David P. Mindell",1,3,1,1,NA,3,8,NA,2,3,2,3,1,1,1,NA,NA,1,1,1,1
+"184",2805081,"Kyrpides,N.C.","Nikos C. Kyrpides",1,NA,NA,NA,NA,2,1,NA,2,1,2,2,35,54,58,33,10,3,1,5,6
+"185",2806522,"Oxelman,B.","Bengt  Oxelman",NA,NA,2,1,5,NA,NA,3,3,NA,4,4,2,2,1,2,4,3,1,2,NA
+"186",2826190,"Sato,H.","Hironori  Sato",1,NA,NA,NA,NA,1,1,NA,1,NA,NA,1,2,1,2,NA,1,NA,1,NA,NA
+"187",2839934,"Wincker,P.","Patrick  Wincker",NA,NA,3,25,15,2,7,8,10,7,15,28,20,15,16,15,5,11,3,7,NA
+"188",2844892,"Guzman,H.","Hilda  Guzman",NA,NA,1,NA,2,NA,3,3,4,NA,1,2,1,NA,5,5,13,9,5,5,7
+"189",2844929,"Parkinson,C.L.","Christopher L.  Parkinson",NA,NA,3,6,NA,NA,1,3,5,2,4,NA,5,1,2,2,NA,1,NA,3,1
+"190",2856777,"Sozhamannan,S.","Shanmuga  Sozhamannan",NA,NA,1,1,NA,1,2,NA,NA,NA,NA,1,NA,1,1,1,1,3,2,NA,NA
+"191",2861780,"Paabo,S.","Svante  Pääbo",2,6,6,4,3,5,5,10,17,5,2,2,1,3,1,4,4,2,2,1,2
+"192",2862602,"Cattoli,G.","Giovanni  Cattoli",NA,NA,1,1,NA,NA,1,1,NA,5,3,4,4,6,3,10,5,7,2,6,2
+"193",2866962,"Kawaoka,Y.","Yoshihiro  Kawaoka",1,3,1,NA,1,NA,NA,1,4,2,2,2,3,5,3,4,3,2,3,1,NA
+"194",2893465,"Zardoya,R.","Rafael  Zardoya",1,4,1,1,1,3,2,8,3,8,8,3,6,1,5,4,1,4,3,2,7
+"195",2893575,"Boekhout,T.","Teun  Boekhout",2,NA,1,4,NA,1,1,1,1,3,8,4,4,4,10,11,8,8,8,13,7
+"196",2911084,"Eberl,L.","Leo  Eberl",NA,4,1,2,1,1,2,1,NA,1,6,1,2,2,2,NA,NA,2,NA,NA,1
+"197",2934812,"Reysenbach,A.","Anna-Louise  Reysenbach",2,3,3,3,5,4,3,1,5,4,5,3,2,NA,2,3,2,2,1,1,1
+"198",2947459,"Masuda,R.","Ryuichi  Masuda",1,6,4,3,6,1,NA,3,3,NA,2,5,3,4,3,6,2,NA,6,3,7
+"199",2947723,"Tosh,C.","Chakradhar  Tosh",NA,1,NA,2,1,2,NA,2,1,NA,1,3,2,3,2,1,NA,2,NA,2,NA
+"200",2950833,"Bulach,D.M.","Dieter M. Bulach",3,1,2,2,3,NA,2,1,NA,2,1,2,NA,NA,2,4,NA,1,3,1,1
+"201",2951754,"Kobayashi,N.","Nobumichi  Kobayashi",NA,NA,1,1,4,1,4,7,2,6,5,11,6,8,16,10,6,6,4,9,10
+"202",2964040,"Ruedi,M.","Manuel  Ruedi",NA,1,1,2,3,NA,1,4,NA,1,2,3,2,1,3,4,2,3,2,2,3
+"203",2967695,"Koonin,E.V.","Eugene V.  Koonin",NA,3,2,7,20,5,1,3,1,2,NA,8,4,1,7,10,NA,2,3,2,1
+"204",2967951,"Miller,B.R.","Barry R. Miller",2,1,NA,3,1,1,1,NA,NA,NA,1,NA,3,NA,NA,NA,1,1,NA,NA,1
+"205",2968160,"Scanlan,D.J.","David J. Scanlan",2,1,1,1,1,2,5,3,3,3,2,2,3,2,8,2,2,2,1,5,1
+"206",2973748,"Theissen,G.","Günter  Theissen",1,NA,4,1,1,6,1,NA,3,2,NA,NA,3,1,5,4,3,2,NA,1,NA
+"207",2977822,"Ueda,K.","Kenji  Ueda",1,2,4,3,6,1,3,2,2,3,6,7,3,2,1,NA,NA,2,1,1,NA
+"208",2980389,"Jiggins,F.M.","Francis M. Jiggins",NA,NA,1,2,NA,1,2,NA,3,2,4,1,3,1,6,2,NA,3,2,3,1
+"209",2981960,"Essex,M.","Max  Essex",1,3,8,7,7,3,4,NA,1,6,1,NA,2,NA,1,2,2,3,1,NA,NA
+"210",2996319,"Hedrich,R.","Rainer  Hedrich",1,NA,3,2,1,1,1,3,2,1,1,2,NA,1,NA,2,2,NA,1,3,2
+"211",3003412,"Ohashi,K.","Kazuhiko  Ohashi",NA,NA,1,NA,NA,2,1,5,8,3,2,3,7,1,4,6,6,4,2,1,1
+"212",3006129,"Rambaut,A.","Andrew  Rambaut",1,NA,1,NA,2,2,NA,3,3,1,3,1,3,2,2,7,6,6,2,5,5
+"213",3009116,"Albert,V.A.","Victor A. Albert",NA,2,4,3,3,3,3,5,NA,2,2,5,2,1,3,3,2,NA,2,1,2
+"214",3012882,"Sugano,S.","Sumio  Sugano",4,5,11,13,13,6,11,8,5,16,9,6,6,1,1,NA,8,2,1,5,2
+"215",3028990,"Hyodo,S.","Susumu  Hyodo",1,NA,NA,NA,NA,1,2,3,1,3,2,2,2,3,NA,4,1,2,4,NA,1
+"216",3037303,"Heckel,D.G.","David G.  Heckel",1,NA,2,NA,1,1,2,1,1,NA,3,7,4,21,10,8,3,11,5,6,2
+"217",3062598,"Ohta,Y.","Yuko  Ohta",1,NA,1,1,NA,2,2,2,2,2,NA,3,1,3,4,1,NA,4,1,7,NA
+"218",3069199,"Fujiyama,A.","Asao  Fujiyama",2,1,1,12,16,1,NA,4,4,5,3,3,1,2,7,10,8,4,11,19,5
+"219",3079495,"Siliciano,R.F.","Robert F. Siliciano",2,NA,NA,5,1,1,NA,2,NA,3,2,3,1,3,1,1,NA,1,NA,1,NA
+"220",3079878,"Telford,M.J.","Maximilian J. Telford",1,4,NA,1,3,NA,2,NA,NA,9,1,4,NA,3,NA,NA,1,NA,1,NA,1
+"221",3092707,"Hahn,B.H.","Beatrice H.  Hahn",3,5,2,NA,2,5,6,10,5,9,7,6,10,13,8,11,14,8,13,21,9
+"222",3105074,"Kikuchi,K.","Kiyoshi  Kikuchi",2,3,4,3,2,NA,1,1,4,2,5,NA,1,NA,2,1,NA,NA,1,NA,NA
+"223",3111535,"Adlard,R.D.","Robert D. Adlard",2,NA,NA,NA,3,NA,2,3,NA,1,1,2,5,5,6,4,4,2,1,1,NA
+"224",3120511,"Bohlmann,J.","Jörg  Bohlmann",2,2,2,1,NA,1,4,6,2,5,6,10,6,6,11,2,12,2,3,4,2
+"225",3120734,"Jansen,R.K.","Robert K.  Jansen",1,3,8,5,3,4,3,3,3,9,6,6,3,3,3,2,1,10,9,6,4
+"226",3130198,"Sievert,S.M.","Stefan M. Sievert",NA,NA,2,3,NA,1,NA,1,1,1,5,3,NA,1,3,NA,1,1,1,NA,2
+"227",3144323,"Soltis,P.S.","Pamela S.  Soltis",3,6,4,3,3,4,5,7,3,7,6,3,7,6,3,7,4,6,9,5,3
+"228",3168557,"Bentley,S.D.","Stephen D. Bentley",NA,1,1,1,2,2,6,2,1,2,3,4,8,9,6,6,10,3,NA,1,1
+"229",3170379,"Gillings,M.R.","Michael R. Gillings",NA,1,NA,2,3,NA,3,2,3,3,2,4,8,1,2,NA,3,1,1,1,1
+"230",3171213,"Nagata,Y.","Yuji  Nagata",NA,1,1,NA,2,1,1,NA,5,4,6,1,NA,3,2,3,2,4,9,5,1
+"231",3176927,"Nagahama,Y.","Yoshitaka  Nagahama",4,1,7,12,5,8,7,3,7,3,6,2,6,4,3,3,2,3,2,NA,NA
+"232",3186927,"Skaletsky,H.","Helen  Skaletsky",NA,NA,3,5,3,2,10,3,8,1,1,2,1,5,NA,3,2,5,NA,1,3
+"233",3198691,"Springer,M.S.","Mark S.  Springer",4,6,4,2,11,6,9,4,1,4,6,3,5,3,6,2,1,2,6,1,4
+"234",3216012,"Ueno,S.","Saneyoshi  Ueno",NA,NA,1,1,NA,NA,2,2,3,1,NA,2,6,1,3,5,2,2,NA,2,4
+"235",3223403,"Shiroishi,T.","Toshihiko  Shiroishi",3,5,5,4,NA,NA,2,8,NA,NA,2,2,1,NA,NA,NA,6,1,NA,NA,1
+"236",3250839,"Moineau,S.","Sylvain  Moineau",2,1,1,3,5,5,5,3,3,4,4,4,5,3,1,3,3,3,6,1,5
+"237",3290751,"Nakagomi,T.","Toyoko  Nakagomi",1,NA,2,2,2,1,2,NA,2,1,1,1,3,1,3,1,5,3,7,5,3
+"238",3292195,"Stoneking,M.","Mark  Stoneking",2,NA,1,2,NA,1,1,NA,NA,NA,2,2,4,1,2,2,4,7,NA,2,3
+"239",3317481,"Bandi,C.","Claudio  Bandi",1,1,2,4,3,4,1,6,4,4,2,2,5,2,5,2,4,1,2,NA,NA
+"240",3338955,"Kawamura,Y.","Yoshiaki  Kawamura",1,5,2,2,2,2,3,3,4,4,3,1,1,NA,2,4,2,3,3,2,2
+"241",3343185,"Nishiyama,T.","Tomoaki  Nishiyama",NA,NA,1,NA,3,NA,5,NA,1,NA,1,3,2,1,5,NA,4,2,NA,2,1
+"242",3473527,"Wing,R.A.","Rod A.  Wing",1,2,2,2,5,3,3,16,14,10,17,9,9,12,3,4,9,3,2,1,NA
+"243",3474242,"Fleischer,R.C.","Robert C. Fleischer",NA,4,3,2,NA,4,1,6,2,5,3,12,4,4,9,8,2,12,5,9,2
+"244",3484111,"Taberlet,P.","Pierre  Taberlet",2,1,4,NA,3,2,3,NA,1,7,6,1,4,2,NA,8,1,2,2,3,NA
+"245",3498959,"Minamisawa,K.","Kiwamu  Minamisawa",NA,2,1,NA,3,3,1,2,1,5,2,3,5,2,5,2,2,4,4,2,1
+"246",3501679,"Yamazaki,M.","Mami  Yamazaki",3,3,3,1,NA,1,1,NA,1,NA,NA,2,NA,NA,1,1,3,NA,NA,2,2
+"247",3505056,"Frisvad,J.C.","Jens Christian Frisvad",NA,1,1,NA,2,1,NA,3,5,3,10,7,3,2,17,5,12,8,7,8,8
+"248",3519942,"Kuhnert,P.","Peter  Kuhnert",1,1,3,4,2,4,4,4,2,11,3,NA,4,3,2,4,1,2,2,1,1
+"249",3521478,"Hongo,S.","Seiji  Hongo",2,NA,NA,2,2,1,1,4,4,NA,3,NA,2,2,NA,1,1,3,1,2,NA
+"250",3529067,"Cruaud,C.","Corinne  Cruaud",10,1,4,3,NA,3,5,4,NA,NA,10,12,9,24,16,27,13,9,2,3,NA
+"251",3535433,"Noble,L.R.","Leslie R. Noble",NA,NA,3,6,4,2,1,2,2,7,3,1,1,NA,1,NA,1,NA,2,1,NA
+"252",3538272,"Kimbara,K.","Kazuhide  Kimbara",1,2,NA,NA,1,2,1,1,3,3,3,1,NA,1,4,5,NA,4,3,1,NA
+"253",3543352,"Pryer,K.M.","Kathleen M.  Pryer",NA,NA,1,NA,3,NA,NA,2,1,3,5,4,1,4,4,4,2,4,7,4,NA
+"254",3545417,"Gessain,A.","Antoine  Gessain",4,4,NA,8,6,1,5,3,6,7,2,3,NA,6,6,4,9,7,5,3,4
+"255",3545756,"Cameron,K.M.","Kenneth M.  Cameron",1,NA,2,1,2,2,1,2,5,1,NA,1,3,NA,1,NA,2,2,NA,NA,4
+"256",3555219,"Girlich,D.","Delphine  Girlich",NA,NA,1,2,1,2,1,4,NA,NA,1,NA,NA,3,1,2,NA,1,2,1,NA
+"257",3563537,"Dohlen,C.D.","Carol D.  von Dohlen",1,1,NA,NA,2,1,1,NA,NA,1,3,3,1,1,1,NA,6,1,2,NA,2
+"258",3572865,"Edgcomb,V.P.","Virginia P. Edgcomb",NA,NA,1,1,3,4,2,NA,1,1,NA,NA,2,NA,6,5,2,1,1,1,NA
+"259",3574748,"Netesov,S.V.","Sergey V. Netesov",NA,NA,1,1,NA,NA,1,NA,NA,4,3,1,NA,4,NA,7,NA,NA,5,4,NA
+"260",3581039,"Seal,B.S.","BRUCE S.  SEAL",NA,5,2,6,2,3,4,6,2,NA,2,1,NA,NA,5,2,2,2,1,NA,NA
+"261",3581073,"Hillis,D.M.","David M.  Hillis",1,3,1,NA,3,3,NA,2,1,2,2,5,2,1,3,1,2,1,NA,1,1
+"262",3591412,"Hirono,I.","Ikuo  Hirono",5,4,2,6,2,4,7,7,11,7,10,11,8,7,12,4,6,3,7,1,3
+"263",3595885,"Harbach,R.E.","RALPH E.  HARBACH",NA,NA,1,6,1,4,6,4,3,1,2,NA,5,2,3,3,6,4,2,1,2
+"264",3603726,"Nikoh,N.","Naruo  Nikoh",1,2,NA,5,3,1,NA,2,NA,3,2,2,6,3,2,6,12,6,NA,2,4
+"265",3614622,"Escriva,H.","Héctor  Escrivà",2,NA,NA,3,2,1,NA,1,1,NA,1,NA,3,NA,4,1,2,NA,NA,1,1
+"266",3614934,"Meshnick,S.R.","Steven R. Meshnick",1,1,NA,1,1,NA,2,1,NA,NA,1,1,1,1,4,2,1,5,NA,2,2
+"267",3625335,"Arahal,D.R.","David R. Arahal",2,NA,1,NA,2,1,1,NA,6,2,2,1,3,5,1,4,3,3,2,1,3
+"268",3625711,"Kinoshita,M.","Masato  Kinoshita",NA,4,1,1,1,2,1,NA,NA,NA,NA,1,4,2,1,NA,NA,3,NA,NA,1
+"269",3627549,"Belak,S.","Sándor  Belák",3,2,7,1,1,4,1,NA,1,3,4,5,9,6,4,7,6,4,2,2,NA
+"270",3630009,"de Lamballerie,X.","Xavier  de Lamballerie",2,1,2,7,10,8,4,2,5,12,6,7,4,5,NA,8,7,12,9,7,2
+"271",3634236,"Maiss,E.","Edgar  Maiss",1,NA,NA,NA,NA,2,2,1,NA,2,4,3,2,NA,NA,1,3,2,2,NA,NA
+"272",3642568,"Sanglard,D.","Dominique  Sanglard",1,2,1,2,1,2,2,NA,NA,1,1,1,1,NA,4,1,3,1,2,1,1
+"273",3653675,"Alioto,D.","Daniela  Alioto",NA,1,NA,NA,NA,1,1,NA,1,2,NA,1,NA,NA,1,NA,1,4,1,2,1
+"274",3656305,"Marenda,M.S.","Marc S. Marenda",NA,1,1,NA,NA,1,1,NA,2,1,NA,NA,1,NA,NA,NA,1,2,1,NA,1
+"275",3670026,"Langford,P.R.","Paul R. Langford",2,2,NA,NA,1,1,NA,1,2,NA,NA,4,3,NA,NA,1,4,1,2,1,1
+"276",3674214,"Stratil,A.","Antonín  Stratil",NA,3,3,4,2,6,3,2,2,2,NA,1,NA,2,NA,NA,NA,1,1,NA,NA
+"277",3674272,"Dubcovsky,J.","Jorge  Dubcovsky",1,NA,2,NA,1,6,3,6,5,7,3,4,7,3,4,2,3,4,4,4,2
+"278",3686344,"Pfister,D.H.","Donald H.  Pfister",1,NA,2,NA,2,1,NA,2,3,5,1,4,2,5,NA,1,8,3,2,4,7
+"279",3693105,"Takishita,K.","Kiyotaka  Takishita",NA,NA,2,1,NA,1,2,4,5,6,7,5,3,5,2,5,1,3,2,2,4
+"280",3698704,"Ehlers,B.","Bernhard  Ehlers",NA,NA,6,1,5,1,2,1,NA,3,7,5,3,4,3,NA,3,1,9,4,1
+"281",3699852,"Barbe,V.","Valérie  Barbe",NA,NA,3,1,2,2,8,2,1,9,4,3,12,8,17,8,16,8,3,4,1
+"282",3707960,"Liegeois,F.","Florian  Liégeois",NA,NA,2,2,NA,1,2,1,NA,6,2,3,2,3,2,2,2,1,2,NA,1
+"283",3720791,"Leger,N.","Nicole  Léger",NA,1,NA,1,NA,2,NA,2,2,NA,2,3,1,NA,NA,2,1,3,2,NA,1
+"284",3731135,"Sekizaki,T.","Tsutomu  Sekizaki",1,2,2,6,6,2,2,NA,1,1,NA,3,1,1,1,NA,1,1,1,NA,2
+"285",3732179,"Pujol,F.H.","Flor Helene Pujol",NA,1,2,1,1,3,2,2,1,NA,NA,2,2,5,2,3,1,1,3,NA,NA
+"286",3745223,"Fjeldsa,J.","Jon  Fjeldså",NA,NA,1,NA,2,1,NA,6,3,4,5,5,6,NA,3,5,4,5,2,6,3
+"287",3745569,"Volff,J.","Jean-Nicolas  Volff",1,NA,2,4,4,1,9,8,1,4,3,NA,NA,6,2,4,3,10,1,NA,NA
+"288",3750309,"Lavazza,A.","Antonio  Lavazza",NA,1,NA,NA,1,NA,1,NA,2,6,4,3,1,5,6,2,9,4,5,6,6
+"289",3751542,"Takaichi,S.","Shinichi  Takaichi",1,1,1,NA,NA,1,2,1,2,NA,3,2,1,3,5,1,1,1,1,1,NA
+"290",3762553,"Imai,K.","Kunitoshi  Imai",NA,NA,1,NA,1,1,NA,1,2,NA,1,1,NA,NA,1,1,2,2,4,2,1
+"291",3782760,"Faris,J.D.","Justin D. Faris",1,NA,NA,NA,1,4,1,NA,NA,2,NA,2,2,3,4,2,1,1,NA,NA,1
+"292",3783275,"van West,P.","Pieter  van West",1,NA,1,1,NA,NA,NA,NA,6,NA,NA,2,NA,2,1,3,3,2,1,1,1
+"293",3783493,"Barbeyron,T.","Tristan  Barbeyron",NA,1,NA,1,1,NA,1,NA,2,2,2,2,NA,2,4,1,3,4,1,1,1
+"294",3790155,"Seuanez,H.N.","Hector Nicolas Seuánez",1,2,7,1,3,1,4,NA,5,NA,7,NA,NA,4,3,2,5,NA,3,2,NA
+"295",3794588,"Maggs,C.A.","Christine A.  Maggs",NA,1,2,2,1,4,1,NA,1,NA,3,2,1,2,2,3,4,1,NA,2,3
+"296",3797119,"Calvete,J.J.","Juan José Calvete",4,3,1,NA,NA,1,NA,2,1,3,1,1,NA,NA,2,NA,2,NA,NA,4,2
+"297",3803081,"Kuzuyama,T.","Tomohisa  Kuzuyama",NA,1,NA,5,1,1,2,3,1,4,1,4,3,2,NA,3,2,2,4,2,2
+"298",3803205,"Chomel,B.B.","Bruno B. Chomel",NA,1,2,3,NA,1,NA,1,NA,4,1,4,2,2,NA,3,1,1,1,2,4
+"299",3807431,"Gottstein,B.","Bruno  Gottstein",2,3,1,2,NA,NA,NA,3,NA,1,2,3,5,2,1,2,1,2,2,NA,NA
+"300",3817897,"Bonillo,C.","Céline  Bonillo",1,1,NA,NA,NA,2,3,NA,1,NA,2,1,1,4,2,1,4,4,3,1,4
+"301",3851828,"Misawa,N.","Naoaki  Misawa",NA,1,NA,NA,1,1,1,1,NA,1,3,NA,2,4,NA,NA,NA,3,1,NA,2
+"302",3856070,"Secombes,C.J.","Christopher J. Secombes",NA,NA,3,6,8,5,6,7,8,7,8,4,15,12,10,6,11,5,3,5,5
+"303",3862512,"Steenkamp,E.T.","Emma Theodora Steenkamp",NA,NA,1,2,NA,NA,NA,NA,1,4,NA,1,3,1,5,4,5,2,5,2,NA
+"304",3868936,"Attoui,H.","Houssam  Attoui",2,1,2,4,5,3,1,3,5,3,2,7,5,3,3,2,1,3,2,1,NA
+"305",3884878,"Tkach,V.V.","Vasyl V.  Tkach",NA,NA,1,3,3,2,4,NA,NA,2,5,3,4,3,8,5,8,4,12,5,6
+"306",3886764,"Spatafora,J.W.","Joseph W.  Spatafora",NA,3,NA,6,4,2,6,4,2,7,8,3,12,2,7,11,3,4,6,3,3
+"307",3888379,"Klicka,J.T.","John T. Klicka",NA,NA,1,1,1,NA,NA,NA,1,NA,2,4,2,4,4,3,4,4,1,NA,NA
+"308",3897481,"Rasplus,J.","Jean-Yves  Rasplus",NA,2,2,NA,2,5,2,5,2,NA,1,2,3,NA,3,7,5,2,2,4,1
+"309",3902355,"Miyaki,C.Y.","Cristina Yumi Miyaki",NA,1,NA,1,NA,1,2,3,1,3,3,1,3,NA,3,6,4,3,5,2,1
+"310",3912271,"Ishihara,C.","Chiaki  Ishihara",1,2,NA,NA,1,NA,NA,3,2,1,1,NA,2,1,1,NA,3,2,NA,1,NA
+"311",3914789,"Halanych,K.M.","Kenneth M.  Halanych",2,NA,3,1,2,NA,1,3,6,4,4,7,5,6,5,2,3,NA,3,5,5
+"312",3939123,"Feyereisen,R.","René  Feyereisen",2,2,1,1,NA,1,NA,1,1,5,NA,2,NA,1,1,NA,2,1,2,NA,1
+"313",3941581,"Kistler,H.C.","H. Corby Kistler",1,2,1,1,1,3,2,NA,NA,1,2,1,NA,4,NA,1,NA,1,NA,2,NA
+"314",3956985,"Willems,A.","Anne  Willems",1,2,4,2,6,8,3,6,7,2,5,1,6,5,10,13,5,4,15,6,8
+"315",3965564,"Sproer,C.","Cathrin  Spröer",NA,NA,2,3,NA,4,4,3,10,4,9,5,11,11,15,13,43,23,24,24,24
+"316",3969932,"Keeling,P.J.","PATRICK J.  KEELING",2,7,1,3,9,2,17,16,7,13,13,13,11,14,7,17,12,6,8,6,4
+"317",3987848,"Hrmova,M.","Maria  Hrmova",NA,NA,1,NA,1,NA,2,1,NA,2,NA,1,3,3,1,2,1,NA,2,3,2
+"318",3987942,"Saijo,M.","Masayuki  Saijo",NA,1,1,1,1,3,1,1,2,1,4,NA,2,NA,2,2,5,4,4,1,5
+"319",3989077,"Hedlund,B.P.","Brian P. Hedlund",NA,1,1,2,NA,3,NA,2,NA,NA,NA,4,2,3,NA,1,6,3,2,NA,1
+"320",4001284,"Slapeta,J.R.","Jan R.  Šlapeta",NA,NA,1,NA,3,5,4,2,1,1,1,2,4,7,6,6,2,10,12,6,7
+"321",4006925,"Costa,M.S.","Milton S.  da Costa",4,NA,1,4,NA,4,5,1,11,10,8,9,2,3,4,10,5,5,4,5,4
+"322",4013337,"Naas,T.P.","Thierry P.  Naas",4,2,8,7,7,6,2,6,1,2,4,3,NA,3,2,1,1,NA,2,1,NA
+"323",4035461,"Izopet,J.","Jacques  Izopet",NA,2,2,3,4,3,5,2,5,1,4,1,3,6,5,2,3,5,5,1,3
+"324",4047787,"Kanost,M.R.","Michael R.  Kanost",2,1,4,NA,1,2,10,5,6,NA,3,3,4,3,NA,NA,1,1,NA,1,NA
+"325",4057852,"Takada,N.","Nobuhiro  Takada",NA,NA,1,1,4,2,1,1,1,5,1,2,2,1,1,4,4,1,NA,2,1
+"326",4061944,"Viscogliosi,E.","Eric  Viscogliosi",NA,2,3,3,3,1,1,2,4,4,4,4,5,1,2,2,3,2,6,4,NA
+"327",4080518,"Timoney,P.J.","Peter J.  Timoney",NA,1,3,NA,1,NA,NA,1,NA,NA,4,4,1,2,NA,2,NA,NA,1,1,NA
+"328",4086449,"Dwyer,D.E.","Dominic Edmund Dwyer",2,1,NA,1,NA,NA,1,2,NA,2,NA,NA,3,2,2,1,NA,NA,NA,NA,2
+"329",4090852,"Cibois,A.","Alice  Cibois",NA,NA,1,NA,2,1,2,3,NA,2,2,3,1,1,1,2,2,1,1,NA,1
+"330",4091094,"Vrijenhoek,R.C.","Robert C.  Vrijenhoek",3,6,1,2,4,2,6,5,1,3,4,7,4,4,3,3,3,8,3,5,2
+"331",4100190,"Adams,M.A.","Mark A. Adams",NA,1,NA,2,2,NA,1,1,NA,1,3,NA,2,2,4,2,1,3,1,2,NA
+"332",4106935,"Kubicek,C.P.","Christian P. Kubicek",2,NA,NA,2,NA,2,8,7,7,5,6,6,7,9,1,15,1,1,2,1,4
+"333",4107045,"Bargelloni,L.","Luca  Bargelloni",NA,2,2,2,2,1,NA,NA,2,4,NA,NA,2,4,1,1,NA,2,NA,1,1
+"334",4111894,"Lambert,D.M.","David M. Lambert",NA,1,NA,1,NA,2,4,2,4,2,1,5,5,1,2,2,2,3,2,1,NA
+"335",4115876,"Votypka,J.","Jan  Votýpka",NA,1,3,NA,2,3,1,2,NA,NA,2,NA,2,4,6,8,7,6,8,7,7
+"336",4119414,"Kamagata,Y.","Yoichi  Kamagata",2,2,1,8,2,6,10,7,6,9,13,7,10,5,5,6,7,14,9,8,4
+"337",4120166,"Tenorio,A.","Antonio  Tenorio",NA,NA,2,NA,3,2,3,NA,1,3,NA,1,3,5,7,4,1,1,1,2,NA
+"338",4127513,"Ayliffe,M.A.","Michael A. Ayliffe",1,NA,1,NA,1,1,3,2,1,2,1,NA,1,NA,1,NA,3,NA,3,NA,NA
+"339",4133734,"Porcella,S.F.","Stephen F. Porcella",5,1,1,4,NA,2,2,1,6,9,3,4,5,1,2,4,6,3,1,NA,5
+"340",4155907,"Bourhy,H.","Hervé  Bourhy",1,NA,1,1,1,NA,NA,NA,2,NA,1,3,3,2,NA,NA,3,1,1,6,4
+"341",4156559,"Catzeflis,F.M.","François M.  Catzeflis",3,2,1,2,4,10,3,2,1,2,NA,2,2,1,2,3,1,10,2,3,1
+"342",4170260,"Rossolini,G.M.","Gian Maria  Rossolini",4,1,4,2,3,4,2,2,6,9,3,3,3,6,5,1,5,6,6,8,4
+"343",4179808,"Bull,A.T.","Alan T. Bull",NA,1,NA,NA,2,2,5,2,2,4,NA,NA,1,1,1,3,2,3,NA,3,2
+"344",4207434,"Sugita,T.","Takashi  Sugita",1,3,6,3,5,3,6,4,2,4,4,NA,1,3,2,2,2,NA,1,NA,NA
+"345",4215840,"Holman,P.J.","Patricia J. Holman",NA,2,6,2,NA,2,3,1,4,NA,1,1,1,1,1,1,1,3,NA,2,1
+"346",4224037,"Giovannoni,S.J.","Stephen J. Giovannoni",3,3,5,1,1,2,4,7,5,2,11,2,4,3,3,NA,1,NA,NA,NA,1
+"347",4233576,"Doronina,N.V.","Nina V. Doronina",NA,1,NA,4,3,2,3,1,3,NA,6,1,3,3,6,2,4,1,3,NA,2
+"348",4244130,"Jongwutiwes,S.","Somchai  Jongwutiwes",1,1,1,1,1,3,NA,1,1,1,1,3,3,5,3,2,3,2,2,1,NA
+"349",4248951,"Selosse,M.","Marc-Andreé  Selosse",NA,NA,2,NA,NA,5,NA,3,3,2,2,4,7,2,2,10,NA,1,6,3,4
+"350",4267222,"Verheyen,E.","ERIK  VERHEYEN",NA,1,1,1,9,1,6,2,3,4,1,3,3,2,4,2,2,2,3,NA,4
+"351",4269628,"Mascola,J.R.","John R.  Mascola",2,1,NA,2,NA,1,NA,NA,2,1,3,NA,2,2,4,8,7,9,12,18,10
+"352",4276808,"Slobodkin,A.I.","Alexander I. Slobodkin",2,NA,1,NA,2,1,1,2,NA,1,NA,1,2,NA,NA,5,2,1,2,4,2
+"353",4278651,"Teeri,T.H.","Teemu H.  Teeri",NA,2,2,1,NA,NA,2,2,2,1,3,2,NA,1,NA,2,NA,NA,3,1,2
+"354",4293946,"Olsen,K.M.","Kenneth M. Olsen",NA,NA,1,NA,NA,2,NA,3,NA,2,3,1,2,5,2,3,2,1,2,2,NA
+"355",4298565,"Caccio,S.M.","Simone Mario Cacciò",1,NA,3,2,NA,2,3,NA,1,NA,2,2,4,2,2,5,1,1,3,1,2
+"356",4304876,"Tsukaya,H.","Hirokazu  Tsukaya",1,1,NA,NA,1,2,2,2,2,1,NA,3,NA,2,NA,3,1,1,2,NA,NA
+"357",4305524,"Yakimov,M.M.","Michail M.  Yakimov",NA,4,NA,1,2,2,3,4,3,7,2,NA,6,6,5,6,10,6,9,2,4
+"358",4308106,"Charrel,R.N.","Rémi N.  Charrel",NA,1,2,NA,6,1,2,2,NA,6,7,7,4,5,1,4,3,3,6,10,2
+"359",4311698,"Andreadis,T.G.","Theodore G. Andreadis",NA,1,1,NA,2,1,NA,1,NA,2,2,3,NA,1,3,1,2,NA,3,1,1
+"360",4316176,"Ketmaier,V.","Valerio  Ketmaier",NA,NA,1,NA,1,1,2,1,2,2,1,2,2,4,1,8,7,1,1,1,1
+"361",4317050,"Donadio,S.","Stefano  Donadio",2,NA,NA,2,NA,1,5,2,1,6,NA,1,2,1,NA,1,4,NA,1,NA,1
+"362",4322229,"Petrovec,M.","Miroslav  Petrovec",NA,NA,1,2,1,1,5,1,2,3,3,1,NA,NA,2,1,1,2,NA,1,NA
+"363",4351597,"Medstrand,P.","Patrik  Medstrand",4,2,2,NA,2,1,1,NA,2,1,1,NA,1,2,1,NA,1,NA,1,NA,1
+"364",4363139,"Minsavage,G.V.","Gerald V. Minsavage",NA,NA,1,2,NA,NA,NA,1,1,NA,1,NA,1,1,1,2,NA,2,1,2,1
+"365",4365445,"Jebbink,M.F.","Maarten F. Jebbink",NA,NA,2,NA,1,NA,NA,2,NA,3,1,2,NA,1,NA,1,2,4,2,NA,NA
+"366",4380012,"Schneider,H.","Horacio  Schneider",4,3,3,NA,1,1,2,5,NA,1,2,3,4,2,2,5,4,7,4,5,4
+"367",4381615,"Ashikari,M.","Motoyuki  Ashikari",NA,NA,1,1,NA,4,3,NA,5,NA,3,NA,1,2,1,1,1,NA,1,2,1
+"368",4382021,"Chijiwa,T.","Takahito  Chijiwa",1,NA,NA,1,NA,1,2,NA,NA,1,NA,2,1,1,1,1,1,3,1,1,NA
+"369",4384073,"Delwart,E.L.","Eric L. Delwart",NA,NA,1,1,1,2,3,2,5,2,4,4,9,15,11,15,19,24,19,20,18
+"370",4388621,"Mardulyn,P.","Patrick  Mardulyn",1,NA,2,1,2,1,2,NA,1,NA,NA,1,1,NA,1,1,2,3,4,4,2
+"371",4395415,"Depaquit,J.","Jérôme  Depaquit",NA,1,NA,1,1,2,NA,2,3,1,2,3,3,2,2,5,5,5,7,1,1
+"372",4416705,"Kudo,T.","Takuji  Kudo",NA,1,2,1,NA,NA,1,NA,4,4,12,7,1,6,7,1,7,5,7,11,2
+"373",4417878,"Muyzer,G.","Gerard  Muyzer",7,6,6,7,1,3,NA,6,10,6,19,18,11,9,16,17,7,8,2,NA,NA
+"374",4445020,"Erseus,C.","Christer  Erséus",NA,NA,2,1,4,1,NA,1,4,3,1,4,4,7,1,3,3,2,4,5,4
+"375",4464397,"Doskar,J.","Jiří  Doškař",NA,2,NA,NA,1,1,2,NA,3,NA,1,1,1,2,NA,2,3,NA,1,2,1
+"376",4468449,"Hassanin,A.","Alexandre  Hassanin",NA,2,3,1,2,1,3,3,5,4,6,NA,1,3,1,7,3,4,3,3,9
+"377",4478826,"Satta,Y.","Yoko  Satta",2,1,2,3,1,5,4,1,3,6,1,3,NA,2,1,1,NA,1,4,6,3
+"378",4479034,"Dubilier,N.","Nicole  Dubilier",NA,NA,1,NA,1,NA,1,1,3,5,5,8,1,2,3,5,4,2,2,6,2
+"379",4493446,"Bonvicino,C.R.","Cibele Rodrigues Bonvicino",NA,1,3,NA,4,NA,3,NA,3,NA,9,1,4,3,5,2,5,1,1,1,7
+"380",4498947,"Wingfield,B.D.","Brenda Diana Wingfield",NA,2,5,6,16,4,10,11,16,18,3,7,11,13,9,7,9,6,4,5,2
+"381",4503903,"Cronn,R.C.","Richard C. Cronn",NA,1,3,NA,1,3,6,NA,2,1,3,1,4,1,6,3,3,NA,NA,1,NA
+"382",4510280,"Caccone,A.","Adalgisa  Caccone",2,1,4,NA,2,3,5,8,5,8,5,6,4,3,3,6,1,1,2,4,NA
+"383",4519075,"Flajnik,M.F.","Martin F.  Flajnik",1,1,3,2,3,4,5,6,2,4,NA,2,1,3,4,2,NA,4,1,7,NA
+"384",4525813,"Brasier,C.M.","Clive M. Brasier",NA,3,2,2,NA,NA,1,3,4,6,1,NA,1,2,2,3,NA,NA,NA,NA,1
+"385",4527978,"Mavingui,P.","Patrick  Mavingui",NA,1,NA,NA,NA,1,NA,4,1,4,NA,4,7,1,4,6,1,NA,3,1,2
+"386",4531143,"Leuchtmann,A.","Adrian  Leuchtmann",1,NA,NA,NA,1,NA,1,2,NA,NA,3,5,NA,1,2,2,3,1,1,NA,1
+"387",4561217,"Horimoto,T.","Taisuke  Horimoto",1,NA,NA,NA,1,NA,NA,NA,4,NA,1,1,1,NA,NA,2,1,NA,NA,2,1
+"388",4570541,"Ohta,Y.","Yukari  Ohta",NA,NA,1,NA,NA,1,NA,4,4,2,NA,1,NA,1,2,NA,2,1,1,NA,NA
+"389",4597918,"Ciarlet,M.","Max  Ciarlet",2,NA,1,2,1,1,5,NA,1,6,2,3,1,2,5,3,2,2,1,NA,3
+"390",4601245,"Kusel,K.","Kirsten  Küsel",NA,NA,1,1,1,NA,1,1,NA,1,1,3,NA,6,2,4,2,6,3,3,1
+"391",4610538,"Musser,J.M.","James M.  Musser",4,2,2,4,1,3,2,1,2,1,1,2,NA,1,NA,1,NA,4,NA,1,NA
+"392",4619035,"Hibbett,D.S.","David S. Hibbett",1,1,2,1,6,3,1,2,3,10,5,2,2,4,2,10,3,2,5,3,1
+"393",4642352,"Tschachler,E.","Erwin  Tschachler",1,NA,NA,2,2,2,NA,NA,2,3,NA,4,2,NA,1,NA,NA,4,NA,1,NA
+"394",4652337,"Fujisaki,K.","Kozo  Fujisaki",NA,NA,4,NA,7,1,2,4,2,13,21,6,12,5,2,3,1,NA,1,3,1
+"395",4676298,"Osbourn,A.E.","Anne E.  Osbourn",NA,NA,2,1,2,1,2,2,NA,1,NA,NA,1,NA,NA,NA,2,1,2,NA,1
+"396",4694413,"Robertson,D.R.","David Ross Robertson",NA,1,1,1,1,1,1,NA,2,3,NA,3,1,1,NA,1,1,1,1,2,1
+"397",4703312,"Candresse,T.","Thierry  Candresse",6,2,NA,1,4,NA,1,3,10,5,2,2,3,3,5,2,7,11,9,4,10
+"398",4704855,"Distel,D.L.","Daniel L. Distel",NA,1,NA,5,NA,2,2,3,1,1,2,NA,1,NA,1,1,NA,3,NA,1,NA
+"399",4715143,"Ushijima,K.","Koichiro  Ushijima",NA,2,NA,NA,NA,1,3,2,NA,NA,2,NA,1,NA,1,1,NA,NA,NA,1,NA
+"400",4743460,"Hanotte,O.","Olivier  Hanotte",NA,NA,1,2,NA,NA,1,1,NA,1,NA,1,3,2,2,NA,2,1,1,1,NA
+"401",4747662,"Denamur,E.","Erick  Denamur",3,NA,NA,1,2,NA,3,3,NA,NA,1,NA,3,1,1,NA,NA,2,NA,1,NA
+"402",4764955,"Stenger,D.C.","Drake C. Stenger",NA,1,2,1,1,4,NA,3,3,NA,NA,1,4,4,1,1,1,1,NA,2,NA
+"403",4771168,"Sampaio,J.P.","José Paulo  Sampaio",NA,NA,1,1,3,3,3,2,2,4,2,3,4,6,2,NA,2,6,3,1,1
+"404",4780414,"Nealson,K.H.","Kenneth H.  Nealson",2,1,2,NA,3,3,7,7,14,5,65,NA,3,2,6,3,6,6,1,NA,NA
+"405",4787157,"Pourrut,X.","Xavier  Pourrut",2,NA,NA,NA,2,2,1,5,1,3,3,NA,NA,NA,1,NA,1,NA,1,1,NA
+"406",4805919,"Verneau,O.","Olivier  Verneau",1,1,NA,NA,2,3,2,1,NA,2,1,1,3,1,5,2,NA,2,1,NA,2
+"407",4820846,"Lovette,I.J.","Irby J. Lovette",NA,NA,3,1,1,3,1,2,1,1,7,5,4,4,6,4,1,7,1,1,NA
+"408",4822651,"Blacket,M.J.","MARK J.  BLACKET",3,NA,1,2,1,NA,NA,NA,1,6,2,2,NA,2,3,2,NA,1,1,4,1
+"409",4873162,"Zamudio,K.R.","Kelly Raquel Zamudio",1,1,NA,2,1,1,1,2,NA,NA,3,3,8,3,1,7,NA,2,3,2,1
+"410",4886143,"Beveridge,I.","Ian  Beveridge",3,7,4,3,3,2,NA,1,1,1,6,2,7,2,3,4,5,4,1,2,3
+"411",4887818,"Herniou,E.A.","Elisabeth A. Herniou",1,3,5,3,1,2,2,2,1,NA,2,1,2,NA,NA,1,6,2,8,NA,1
+"412",4894979,"Teske,A.P.","Andreas P. Teske",NA,1,2,3,1,2,4,1,3,6,NA,1,1,3,6,7,6,4,4,3,NA
+"413",4896852,"Loureiro,C.L.","Carmen Luisa Loureiro",NA,1,NA,NA,1,1,NA,1,NA,NA,NA,1,NA,1,2,1,1,1,2,NA,NA
+"414",4901632,"Nylund,A.","Are  Nylund",NA,NA,1,1,3,1,2,2,3,7,7,8,2,6,3,2,2,4,5,2,4
+"415",4916944,"Mboup,S.","Souleymane  Mboup",1,NA,2,4,1,1,2,2,NA,2,2,1,NA,1,1,2,6,NA,NA,NA,2
+"416",4933519,"Gram,L.","Lone  Gram",1,NA,NA,1,1,1,2,6,3,1,2,1,1,5,2,2,1,NA,3,5,12
+"417",4940245,"Fukatsu,T.","Takema  Fukatsu",2,1,1,5,4,5,3,1,7,7,5,8,5,7,10,8,15,8,6,2,8
+"418",4962320,"Golyshin,P.N.","Peter N.  Golyshin",NA,4,NA,1,2,2,2,5,4,3,5,1,6,5,6,5,8,5,10,2,7
+"419",4962498,"Stanhope,M.J.","Michael J.  Stanhope",3,6,4,5,14,12,9,1,3,3,2,1,1,1,1,1,1,NA,NA,5,1
+"420",4963423,"Kano,R.","Rui  Kano",1,1,2,2,4,2,2,5,5,3,NA,2,NA,3,2,2,3,1,2,1,1
+"421",5007350,"Verreth,C.","Christel  Verreth",1,3,NA,NA,1,2,2,NA,2,NA,1,NA,1,NA,NA,3,NA,NA,NA,1,1
+"422",5010638,"Ka,J.","Jong-Ok  Ka",1,NA,NA,1,NA,NA,NA,1,NA,NA,2,3,3,3,2,3,2,3,3,3,7
+"423",5010780,"Kita,K.","Kiyoshi  Kita",6,1,1,2,2,3,NA,2,3,3,1,2,2,6,4,4,1,NA,1,1,1
+"424",5018823,"Lockhart,B.E.","Benham E L Lockhart",NA,NA,1,2,2,1,1,NA,3,1,2,3,1,2,NA,NA,4,3,4,2,3
+"425",5039855,"Robnett,C.J.","Christie J. Robnett",1,2,NA,NA,3,NA,5,NA,1,NA,2,2,NA,2,NA,1,3,2,1,NA,NA
+"426",5040481,"Heitman,J.","Joseph  Heitman",1,NA,5,8,3,5,7,8,11,5,3,4,11,5,7,9,8,7,1,NA,NA
+"427",5087388,"Loker,E.S.","Eric S. Loker",5,NA,NA,2,5,3,5,6,8,1,1,3,3,4,1,2,NA,1,5,3,1
+"428",5093157,"Overbaugh,J.M.","Julie M Overbaugh",2,3,2,2,2,2,NA,1,3,5,2,2,3,1,NA,NA,2,2,2,1,NA
+"429",5109195,"Giribet,G.","Gonzalo  Giribet",NA,2,3,3,1,3,4,7,7,11,10,3,6,9,9,17,9,8,6,5,3
+"430",5129377,"Nakagomi,O.","Osamu  Nakagomi",5,NA,3,2,2,1,2,NA,3,1,3,3,4,2,3,1,5,3,7,5,4
+"431",5139889,"Kawachi,M.","Masanobu  Kawachi",NA,NA,3,NA,NA,1,NA,1,1,1,3,1,2,NA,2,NA,3,NA,4,3,2
+"432",5140509,"Knowles,D.P.","Donald P. Knowles",1,1,1,1,2,1,1,3,6,3,6,6,2,5,1,2,NA,1,NA,2,NA
+"433",5164553,"Kew,O.M.","Olen M. Kew",NA,1,NA,7,NA,2,5,1,3,2,2,3,2,3,NA,NA,3,1,1,NA,NA
+"434",5167644,"Bruford,M.W.","Michael William Bruford",4,1,1,1,5,4,1,7,4,9,6,4,7,10,5,2,4,2,3,2,1
+"435",5169770,"Soltis,D.E.","Douglas E.  Soltis",3,6,7,5,6,4,6,8,3,7,6,4,8,6,4,9,4,5,11,5,6
+"436",5177070,"Piertney,S.B.","STUART B.  PIERTNEY",1,4,1,2,2,2,3,NA,1,1,2,3,2,NA,3,1,1,1,3,3,NA
+"437",5181177,"Bonatto,S.L.","Sandro Luis  Bonatto",NA,2,NA,NA,NA,1,3,2,5,2,2,5,4,3,7,6,5,4,2,5,2
+"438",5192997,"Oberste,M.S.","M. Steven Oberste",1,4,4,3,1,3,6,5,1,2,3,3,2,2,1,1,5,1,NA,3,2
+"439",5207203,"Wehmann,E.","Enikő  Wehmann",NA,1,1,NA,NA,2,4,NA,NA,1,NA,NA,NA,1,1,NA,NA,2,1,NA,2
+"440",5216557,"Honeycutt,R.L.","Rodney L.  Honeycutt",3,1,1,6,4,2,5,5,2,5,2,NA,2,2,6,NA,NA,2,1,1,NA
+"441",5228247,"Nordmann,P.","Patrice  Nordmann",2,1,8,7,15,11,8,15,11,13,10,15,9,18,11,17,11,5,5,2,5
+"442",5245999,"Pukall,R.","Rüdiger  Pukall",NA,NA,2,NA,3,NA,2,2,4,3,3,2,16,15,8,4,8,2,1,2,2
+"443",5249470,"Kikuyama,S.","Sakae  Kikuyama",1,NA,1,2,1,1,3,2,NA,3,2,1,NA,3,2,1,1,1,NA,1,1
+"444",5259170,"Cnockaert,M.C.","Margo C Cnockaert",NA,NA,1,1,4,2,5,NA,2,NA,2,NA,NA,1,1,NA,8,10,12,7,2
+"445",5265547,"Kudrna,D.A.","David A. Kudrna",NA,NA,1,NA,NA,2,2,NA,2,7,11,7,6,3,2,2,7,3,NA,1,NA
+"446",5268932,"Kutish,G.F.","Gerald F. Kutish",3,2,3,5,5,4,3,3,4,3,NA,NA,NA,1,NA,3,NA,1,4,1,1
+"447",5269402,"Karol,K.G.","Kenneth G. Karol",1,3,2,1,1,NA,2,NA,1,1,3,NA,NA,3,3,1,NA,NA,NA,1,2
+"448",5272590,"Stinear,T.P.","Timothy P. Stinear",NA,NA,1,2,1,NA,1,1,1,NA,3,3,NA,2,NA,1,4,NA,NA,NA,1
+"449",5274242,"Putaporntip,C.","Chaturong  Putaporntip",1,1,NA,1,1,2,NA,1,1,1,1,3,3,5,3,2,3,2,2,1,NA
+"450",5280440,"Yanagihara,R.","Richard  Yanagihara",1,1,NA,3,1,1,NA,1,1,2,5,4,7,4,5,4,8,10,4,5,3
+"451",5284892,"Demura,T.","Taku  Demura",2,NA,NA,1,NA,4,NA,6,3,3,2,1,4,NA,1,1,1,1,1,NA,1
+"452",5311241,"Bussche,R.A.","Ronald A. Van Den Bussche",2,NA,NA,2,NA,NA,3,NA,1,1,1,1,NA,NA,1,NA,1,NA,1,1,2
+"453",5320556,"Marialigeti,K.","Károly  Márialigeti",NA,NA,1,2,3,7,2,NA,1,2,4,13,3,12,7,8,6,7,3,1,2
+"454",5321670,"Shoguchi,E.","Eiichi  Shoguchi",NA,NA,1,1,1,2,NA,NA,1,NA,NA,2,NA,1,4,1,1,2,8,1,NA
+"455",5332255,"Okamoto,M.","Munehiro  Okamoto",1,2,NA,1,2,1,3,2,NA,1,2,NA,3,1,2,4,2,3,4,NA,NA
+"456",5336900,"Shank,T.M.","Timothy M. Shank",NA,2,NA,NA,3,NA,1,NA,1,2,NA,1,1,2,NA,5,2,NA,3,1,NA
+"457",5373718,"Johnson,W.E.","Warren E.  Johnson",1,2,NA,2,6,NA,1,2,1,3,5,5,1,1,2,2,2,3,1,NA,2
+"458",5386824,"Ruber,L.","Lukas  Rüber",NA,NA,1,NA,3,NA,1,2,1,2,2,NA,3,1,NA,NA,2,2,NA,1,4
+"459",5389516,"Makuwa,M.","Maria  Makuwa",NA,1,NA,NA,NA,1,NA,2,1,1,1,5,3,3,NA,4,NA,NA,1,NA,NA
+"460",5399024,"Stegeman,J.J.","John J. Stegeman",1,1,NA,2,2,1,1,1,2,2,1,NA,2,NA,4,4,5,2,NA,NA,2
+"461",5409067,"Switzer,W.M.","William M.  Switzer",NA,3,1,NA,2,NA,3,4,4,3,NA,4,6,1,4,4,9,7,5,4,NA
+"462",5474035,"Swayne,D.E.","David E.  Swayne",2,2,NA,1,1,1,NA,2,7,2,7,2,1,4,2,NA,NA,1,NA,NA,4
+"463",5522746,"Karchner,S.I.","Sibel I. Karchner",1,2,4,2,NA,1,NA,3,2,2,1,NA,2,NA,1,1,3,NA,NA,NA,1
+"464",5523403,"Bierne,N.","Nicolas  Bierne",NA,NA,1,1,NA,NA,1,NA,NA,NA,1,2,1,1,NA,NA,4,2,NA,2,NA
+"465",5552122,"Belles,X.","Xavier  Bellés",NA,1,1,2,NA,NA,1,1,3,2,4,3,6,3,2,6,1,3,1,2,NA
+"466",5554425,"Noda,S.","Satoko  Noda",NA,NA,3,NA,NA,3,3,NA,3,4,8,5,6,NA,1,1,NA,1,1,NA,NA
+"467",5557888,"Doadrio,I.","Ignacio  Doadrio",NA,1,1,1,5,2,3,3,2,5,6,9,5,4,6,4,4,5,8,7,3
+"468",5573129,"Ohkuma,M.","Moriya  Ohkuma",1,4,5,2,4,4,10,3,12,7,13,5,6,2,9,19,21,15,29,22,13
+"469",5576902,"Matthee,C.A.","Conrad A.  Matthee",1,NA,3,NA,2,3,1,6,3,4,8,4,2,4,1,6,4,4,4,3,1
+"470",5589579,"Bukh,J.","Jens  Bukh",3,3,4,3,1,NA,1,NA,1,NA,2,2,1,2,4,3,2,3,NA,1,3
+"471",5592179,"Obornik,M.","Miroslav  Oborník",NA,NA,1,NA,4,3,NA,4,1,2,2,12,3,2,1,1,4,1,4,2,NA
+"472",5592765,"Casaregola,S.","Serge  Casaregola",NA,NA,1,14,3,1,1,1,2,NA,NA,1,4,2,3,5,2,NA,3,1,3
+"473",5597695,"Kazanji,M.","Mirdad  Kazanji",1,NA,2,1,2,1,3,1,1,2,1,5,5,3,1,4,4,3,3,3,3
+"474",5602527,"Crayn,D.M.","Darren M. Crayn",NA,1,NA,1,1,1,NA,2,NA,2,2,1,1,NA,4,2,NA,NA,1,3,NA
+"475",5603041,"Plyusnina,A.","Angelina  Plyusnina",NA,1,3,NA,NA,1,1,2,1,1,2,3,3,NA,1,6,2,NA,1,NA,NA
+"476",5603340,"Moreira,D.","David  Moreira",NA,NA,1,2,3,3,3,3,10,4,8,4,8,3,11,4,4,6,3,5,1
+"477",5607180,"Mable,B.K.","Barbara K. Mable",NA,NA,1,NA,1,NA,1,NA,NA,1,1,1,1,3,NA,4,1,NA,1,1,2
+"478",5628295,"Nishizawa,T.","Tomoyasu  Nishizawa",NA,NA,1,1,NA,NA,NA,NA,1,NA,2,1,2,4,4,2,NA,2,1,1,NA
+"479",5644247,"Trotsenko,Y.A.","Yuri A. Trotsenko",1,2,1,7,2,3,4,3,6,1,7,8,3,5,7,2,6,1,3,NA,2
+"480",5686220,"Arie,T.","Tsutomu  Arie",NA,NA,1,1,NA,NA,2,1,2,2,2,1,2,7,2,2,2,1,NA,2,1
+"481",5688407,"Kitashiba,H.","Hiroyasu  Kitashiba",2,NA,NA,NA,1,1,1,1,3,2,1,NA,NA,1,1,NA,1,2,1,NA,1
+"482",5703389,"Hypsa,V.","Václav  Hypsa",3,1,1,1,2,2,1,NA,3,NA,3,4,3,2,1,1,4,1,NA,NA,3
+"483",5703920,"Bremer,B.","Birgitta  Bremer",2,3,5,5,2,4,NA,2,3,NA,2,6,6,6,1,NA,1,3,2,1,2
+"484",5716592,"Gibbs,A.J.","Adrian J. Gibbs",5,2,1,1,NA,3,1,1,1,NA,2,NA,NA,NA,2,NA,1,1,1,1,1
+"485",5720848,"Golovljova,I.","Irina  Golovljova",NA,NA,1,NA,1,1,NA,1,NA,1,NA,1,NA,NA,1,3,1,NA,3,3,1
+"486",5728806,"Loessner,M.J.","Martin J. Loessner",2,1,1,2,NA,5,2,NA,1,NA,NA,2,1,3,2,1,2,4,1,1,NA
+"487",5766768,"Shinoda,T.","Tetsuro  Shinoda",NA,4,1,NA,1,2,1,3,1,1,2,3,1,6,NA,4,3,3,2,NA,1
+"488",5775349,"Vossbrinck,C.R.","CHARLES R. VOSSBRINCK",2,1,2,NA,1,2,2,2,2,2,1,4,NA,3,4,1,3,NA,NA,NA,1
+"489",5778032,"Nozaki,H.","Hisayoshi  Nozaki",NA,5,2,1,5,3,5,8,2,2,5,10,8,9,7,7,6,6,8,7,5
+"490",5800357,"Lagudah,E.S.","Evans S. Lagudah",1,NA,NA,1,NA,1,2,NA,NA,2,1,1,2,NA,2,NA,1,NA,3,NA,NA
+"491",5809453,"Peelman,L.J.","Luc J. Peelman",2,NA,3,1,5,8,6,4,7,4,1,1,2,3,NA,2,NA,NA,2,NA,1
+"492",5824928,"Perreten,V.","Vincent  Perreten",1,NA,NA,NA,2,NA,1,NA,1,2,NA,6,NA,4,2,2,9,3,5,5,9
+"493",5838896,"Kalendar,R.","Ruslan  Kalendar",NA,NA,1,NA,4,1,NA,3,1,2,NA,7,3,NA,1,NA,NA,1,4,7,NA
+"494",5855358,"Tindall,B.J.","Brian J.  Tindall",1,2,7,3,4,3,4,4,7,6,6,3,15,12,13,6,11,1,1,2,1
+"495",5869906,"Henttonen,H.","Heikkia  Henttonen",1,NA,2,1,2,4,3,2,2,1,2,6,2,4,2,4,4,3,2,3,1
+"496",5882470,"Kakishima,M.","Makoto  Kakishima",NA,NA,1,NA,1,1,2,4,3,2,1,2,5,5,NA,2,NA,1,1,NA,NA
+"497",5889340,"Oromi,P.","PEDRO  OROMÍ",NA,NA,1,2,4,NA,1,1,2,1,3,3,2,NA,NA,2,2,NA,NA,1,NA
+"498",5900409,"Tanuri,A.","Amı́lcar  Tanuri",NA,2,5,4,2,1,3,6,3,4,NA,2,2,2,2,1,3,NA,NA,1,NA
+"499",5910666,"Vapalahti,O.","Olli  Vapalahti",1,NA,2,NA,1,NA,3,1,1,2,3,3,4,2,4,13,5,8,6,2,5
+"500",5915844,"Terai,Y.","Yohey  Terai",NA,2,NA,NA,1,5,1,2,2,1,NA,2,1,NA,2,1,NA,1,1,2,1
+"501",5917147,"Descamps,D.","Diane  Descamps",1,1,1,NA,2,1,2,1,1,NA,NA,1,1,3,1,1,1,1,1,NA,1
+"502",5919726,"Knowles,N.J.","Nicholas James Knowles",2,2,3,2,5,1,1,1,3,2,3,11,8,2,3,7,10,11,7,7,1
+"503",5927374,"Sall,A.A.","Amadou Alpha Sall",3,NA,1,NA,1,NA,NA,NA,2,NA,1,2,3,3,1,2,4,4,3,2,4
+"504",5941427,"Karasev,A.V.","Alexander V. Karasev",1,1,2,NA,2,2,NA,NA,2,1,NA,1,1,2,4,1,NA,3,2,4,4
+"505",5943035,"Nawa,Y.","Yukifumi  Nawa",1,NA,NA,1,NA,NA,NA,1,NA,NA,2,4,2,1,1,4,5,NA,2,2,NA
+"506",5944951,"Hantula,J.","Jarkko  Hantula",1,NA,1,2,2,NA,5,2,3,2,NA,NA,3,2,3,4,2,2,6,NA,3
+"507",5967941,"Wiegertjes,G.F.","Geert F. Wiegertjes",NA,NA,1,1,NA,NA,1,NA,NA,1,NA,8,3,2,2,2,2,3,1,2,NA
+"508",5991420,"Mariaux,J.","Jean-Baptiste  Mariaux",NA,2,1,2,2,NA,NA,1,NA,NA,NA,2,2,NA,2,1,2,1,3,NA,1
+"509",5991589,"Takaki,Y.","Yoshihiro  Takaki",NA,1,8,4,1,1,1,4,NA,NA,3,2,NA,1,5,6,4,5,3,8,7
+"510",6004426,"Hikima,J.","Jun-ichi  Hikima",1,NA,NA,1,NA,NA,1,1,2,4,NA,NA,3,2,5,5,2,NA,1,1,1
+"511",6006141,"Nickrent,D.L.","Daniel L. Nickrent",6,1,2,3,NA,1,NA,3,1,1,4,3,2,1,NA,1,NA,NA,3,1,NA
+"512",6008291,"Takai,K.","Ken  Takai",NA,1,4,2,5,4,10,9,20,14,4,7,7,5,6,10,11,11,5,8,7
+"513",6011032,"Shirasu,K.","Ken  Shirasu",NA,NA,3,1,NA,2,2,1,1,1,1,NA,NA,1,1,1,NA,1,1,3,2
+"514",6076704,"Schink,B.","Bernhard  Schink",NA,2,2,2,NA,4,NA,4,NA,3,6,3,1,1,4,2,NA,1,3,1,NA
+"515",6093497,"Nishizawa,T.","Tsutomu  Nishizawa",2,1,3,6,4,5,7,7,10,2,2,2,NA,NA,3,3,3,3,1,4,4
+"516",6108164,"Holo,H.","Helge  Holo",1,NA,NA,2,1,2,1,1,1,1,2,NA,NA,2,NA,2,NA,NA,NA,1,NA
+"517",6114737,"Hirsch,V.M.","Vanessa M. Hirsch",1,NA,2,1,2,NA,2,NA,NA,2,2,NA,NA,1,NA,5,2,2,3,2,NA
+"518",6119340,"Acinas,S.G.","Silvia G. Acinas",NA,NA,1,NA,1,2,NA,1,NA,1,NA,2,1,NA,NA,1,NA,2,2,5,4
+"519",6131478,"Ferte,H.","Hubert  Ferté",NA,1,NA,1,1,1,NA,1,2,2,1,3,3,2,2,2,1,3,3,2,NA
+"520",6134339,"Ollivier,B.","Bernard  Ollivier",5,2,3,4,3,3,6,6,4,2,9,4,2,4,8,10,10,2,9,5,1
+"521",6154416,"Yukuhiro,K.","Kenji  Yukuhiro",1,NA,1,1,NA,1,2,NA,NA,NA,NA,2,NA,NA,2,1,NA,NA,NA,NA,1
+"522",6155289,"Kusakabe,R.","Rie  Kusakabe",NA,NA,1,NA,1,NA,1,NA,NA,NA,2,2,NA,NA,2,NA,1,NA,1,NA,1
+"523",6167874,"Miya,M.U.","Masaki U. Miya",1,1,2,4,8,3,7,9,6,6,6,10,12,12,5,4,10,7,4,4,3
+"524",6174056,"Farias,I.P.","IZENI PIRES  FARIAS",NA,NA,1,1,1,NA,2,2,2,2,4,8,4,3,2,5,1,5,5,6,6
+"525",6211518,"Picardeau,M.","Mathieu  Picardeau",1,1,NA,2,3,1,NA,NA,2,2,2,2,1,NA,1,NA,1,2,2,NA,NA
+"526",6230556,"Nubel,U.","Ulrich  Nübel",3,1,NA,3,6,1,2,1,1,2,1,NA,1,1,NA,NA,2,NA,1,NA,2
+"527",6234325,"Dedysh,S.N.","Svetlana N. Dedysh",NA,4,NA,3,1,2,1,2,4,6,3,2,3,4,6,7,4,5,3,4,2
+"528",6246797,"Nichol,S.T.","Stuart T. Nichol",8,5,1,2,3,4,1,4,1,6,8,5,6,2,8,7,5,6,5,7,3
+"529",6279472,"Brisse,S.","Sylvain  Brisse",NA,NA,1,1,1,1,1,2,8,2,3,2,4,2,8,3,5,6,4,1,3
+"530",6284188,"Fujiwara,H.","Haruhiko  Fujiwara",2,NA,NA,1,1,3,1,2,4,2,1,5,NA,2,NA,4,3,1,NA,2,NA
+"531",6291510,"Dykova,I.","Iva  Dyková",NA,NA,1,NA,2,2,2,1,2,1,2,3,2,3,3,2,3,NA,2,2,3
+"532",6349345,"Fingerle,V.","Volker  Fingerle",NA,NA,1,NA,NA,2,NA,NA,1,1,NA,5,3,2,1,1,1,1,3,4,NA
+"533",6350427,"Miura,T.","Tomoyuki  Miura",6,2,4,NA,4,1,1,NA,4,1,NA,1,NA,NA,2,NA,4,NA,2,NA,NA
+"534",6369180,"Lynn,D.H.","DENIS H.  LYNN",3,1,2,3,1,1,NA,1,4,3,5,NA,5,2,2,2,2,NA,1,1,1
+"535",6387627,"Inoshima,Y.","Yasuo  Inoshima",2,NA,NA,1,1,1,1,NA,1,NA,NA,1,1,4,2,1,4,2,NA,1,1
+"536",6390795,"Takemoto,D.","Daigo  Takemoto",NA,NA,1,1,1,NA,1,NA,NA,2,NA,1,NA,NA,1,NA,2,NA,NA,2,NA
+"537",6415437,"Inokuma,H.","Hisashi  Inokuma",NA,NA,3,4,7,8,2,4,5,1,5,2,3,1,4,2,8,3,2,NA,NA
+"538",6436250,"Lougheed,S.C.","Stephen C.  Lougheed",NA,NA,2,1,2,1,2,3,NA,5,3,3,1,4,3,4,2,2,1,NA,1
+"539",6493427,"Forterre,P.","Patrick  Forterre",6,NA,NA,NA,NA,2,3,3,NA,NA,1,4,3,2,1,1,3,1,NA,NA,1
+"540",6494749,"Saif,L.J.","Linda J. Saif",NA,NA,5,4,1,2,1,3,3,1,5,2,1,NA,8,2,8,7,2,4,2
+"541",6499983,"Luzzaro,F.","Francesco  Luzzaro",1,NA,NA,NA,NA,1,2,NA,1,2,1,1,1,NA,NA,NA,2,NA,NA,NA,2
+"542",6511377,"Tanabe,Y.","Yuuhiko  Tanabe",NA,NA,1,NA,NA,2,NA,2,NA,NA,2,NA,3,NA,2,2,NA,1,4,NA,NA
+"543",6529686,"Spiropoulou,C.F.","Christina F. Spiropoulou",NA,1,NA,1,NA,NA,NA,1,NA,NA,NA,1,2,NA,NA,1,1,1,2,1,1
+"544",6542110,"Pasquet,E.","ERIC.  PASQUET",NA,1,1,1,2,1,NA,3,NA,5,7,9,3,1,3,6,4,1,2,1,2
+"545",6543883,"Kreuze,J.F.","Jan Frederik Kreuze",NA,1,NA,2,NA,1,2,NA,NA,NA,1,2,1,1,3,1,1,3,2,1,4
+"546",6577920,"Godfroy,A.","Anne  Godfroy",1,NA,1,1,1,NA,2,NA,2,NA,2,NA,4,2,1,NA,4,2,1,2,2
+"547",6593096,"Poirel,L.","Laurent  Poirel",1,NA,8,5,13,6,6,9,10,10,7,12,7,13,8,18,9,3,7,2,6
+"548",6633039,"Jongejan,F.","Frans  Jongejan",NA,NA,2,3,2,2,4,3,5,1,4,5,4,5,2,1,2,NA,1,NA,NA
+"549",6637782,"Villems,R.","Richard  Villems",NA,NA,1,NA,NA,1,NA,2,3,1,5,4,1,1,1,4,3,1,1,1,1
+"550",6648154,"Briddon,R.W.","Robert W. Briddon",NA,NA,3,3,1,1,3,3,5,5,2,5,8,11,9,7,6,10,1,3,3
+"551",6650716,"Steinbuchel,A.","Alexander  Steinbüchel",2,3,6,11,10,12,6,3,2,5,1,6,4,5,4,1,4,2,1,3,2
+"552",6686389,"Pollakis,G.","Georgios  Pollakis",NA,NA,1,2,1,1,1,2,2,NA,1,NA,1,1,1,1,1,NA,1,2,NA
+"553",6689095,"Kawano,S.","Shigeyuki  Kawano",2,1,6,1,2,5,4,2,4,1,1,2,2,2,1,2,NA,NA,1,NA,1
+"554",6708692,"Katsu,Y.","Yoshinao  Katsu",1,NA,NA,NA,2,1,3,1,1,3,3,6,1,4,1,NA,2,NA,NA,1,NA
+"555",6710714,"Randi,E.","Ettore  Randi",1,2,1,2,3,1,1,1,2,2,5,3,3,1,1,2,2,2,3,NA,1
+"556",6756962,"Krajewski,C.","Carey  Krajewski",6,1,3,3,2,NA,1,2,NA,1,2,NA,1,1,NA,1,NA,NA,1,1,NA
+"557",6757672,"Muranaka,T.","Toshiya  Muranaka",NA,NA,3,NA,1,NA,NA,NA,1,2,NA,1,3,NA,3,NA,2,2,1,3,3
+"558",6779655,"Prangishvili,D.","David  Prangishvili",NA,1,NA,1,1,NA,1,3,4,NA,1,4,2,6,3,1,1,NA,2,1,1
+"559",6783421,"Gotuzzo,E.","Eduardo  Gotuzzo",NA,1,NA,1,NA,NA,NA,1,2,1,1,1,1,3,NA,NA,1,1,NA,1,NA
+"560",6783896,"Wicker,T.","Thomas  Wicker",NA,NA,1,1,1,NA,1,NA,2,1,6,1,7,6,3,2,3,3,3,1,2
+"561",6812004,"Gatanaga,H.","Hiroyuki  Gatanaga",1,NA,2,NA,1,NA,1,NA,NA,NA,1,NA,2,2,1,NA,NA,1,NA,2,1
+"562",6816021,"Zachgo,S.","Sabine  Zachgo",1,NA,1,NA,1,NA,NA,2,1,1,1,1,2,1,NA,1,NA,NA,3,NA,1
+"563",6823237,"Haesebrouck,F.","Freddy  Haesebrouck",1,NA,3,1,6,2,4,2,8,4,3,4,2,3,4,3,2,7,1,1,1
+"564",6839497,"Katayama,K.","Kazuhiko  Katayama",NA,1,1,2,2,2,NA,7,7,6,1,3,7,6,1,3,1,5,11,5,9
+"565",6867446,"Paddock,C.D.","Christopher D. Paddock",2,NA,NA,1,1,NA,3,NA,NA,2,6,5,2,4,1,2,1,2,NA,3,2
+"566",6892066,"Spradling,T.A.","Theresa A.  Spradling",NA,NA,1,NA,NA,1,NA,1,1,NA,NA,1,1,NA,NA,1,1,1,1,2,NA
+"567",6938577,"Ventosa,A.","Antonio  Ventosa",4,1,6,3,4,3,2,7,9,17,12,17,11,8,8,15,14,16,16,10,10
+"568",6940827,"Schleper,C.","Christa  Schleper",2,1,2,1,NA,2,1,2,1,5,NA,3,3,4,1,4,7,1,1,3,NA
+"569",6945815,"Maruyama,T.","Tadashi  Maruyama",3,4,4,3,3,3,2,3,6,8,8,2,1,7,5,2,7,3,3,5,3
+"570",6957392,"Elomaa,P.","Paula  Elomaa",NA,2,2,1,NA,NA,2,1,1,NA,1,2,3,1,NA,3,NA,NA,1,2,1
+"571",6965382,"Longcore,J.E.","Joyce E.  Longcore",1,NA,NA,1,NA,NA,1,NA,NA,7,1,NA,3,1,3,1,NA,1,1,1,3
+"572",6967203,"Iwamuro,S.","Shawichi  Iwamuro",NA,1,1,NA,1,NA,2,NA,NA,2,4,3,NA,3,1,NA,1,1,NA,NA,1
+"573",6976263,"Riutort,M.","Marta  Riutort",1,2,6,NA,1,2,NA,1,NA,NA,1,1,3,NA,3,4,4,2,2,4,2
+"574",7006609,"Holmes,E.C.","Edward C.  Holmes",3,NA,5,2,7,6,6,3,11,9,12,10,10,15,7,15,21,30,23,10,18
+"575",7007412,"Dohmae,N.","Naoshi  Dohmae",1,3,4,4,3,1,1,1,NA,4,1,1,1,2,1,2,3,NA,1,NA,1
+"576",7011100,"Blackard,J.T.","Jason Tory Blackard",1,NA,2,2,1,NA,1,1,NA,1,1,NA,1,2,3,3,1,2,2,2,NA
+"577",7032750,"Hoek,L.V.","Lia  van der Hoek",NA,2,NA,NA,1,NA,1,2,2,5,1,3,1,2,1,1,2,5,4,3,NA
+"578",7182948,"De Mot,R.","René  De Mot",5,3,5,1,NA,1,1,1,NA,NA,1,NA,NA,1,3,1,3,NA,1,NA,1
+"579",7276732,"Schneider,C.J.","Christopher J. Schneider",NA,NA,1,NA,3,1,NA,3,NA,1,1,NA,1,2,NA,1,2,1,1,NA,NA
+"580",7302950,"Walker,A.R.","Amanda R.  Walker",1,1,1,NA,1,1,1,NA,1,3,1,NA,2,NA,NA,NA,1,NA,1,1,2
+"581",7536588,"Torre,A.D.","Alessandra  della Torre",NA,2,2,NA,1,2,NA,1,NA,1,1,1,NA,NA,1,NA,1,1,2,NA,NA
+"582",7569104,"Crous,P.W.","Pedro Willem  Crous",NA,NA,2,1,8,1,10,13,12,23,21,15,31,26,15,35,30,29,33,35,48
+"583",7663181,"Puhler,A.","Alfred  Pühler",7,5,10,4,9,5,11,7,7,8,6,9,3,4,8,6,4,4,3,4,NA
+"584",7690202,"Hu,Z.","Zhi-hong  Hu",1,NA,NA,NA,1,NA,NA,2,2,2,1,NA,1,1,NA,NA,1,2,1,1,3
+"585",7803030,"Wendel,J.F.","Jonathan F. Wendel",2,5,5,2,1,3,7,9,NA,3,1,3,1,1,2,4,NA,3,1,1,2
+"586",7852095,"Tesh,R.B.","Robert B.  Tesh",1,NA,6,3,4,NA,5,4,6,3,3,2,10,9,15,13,20,16,14,6,10
+"587",8144281,"O'brien,S.J.","Stephen J.  O’Brien",8,6,9,5,14,4,6,9,6,8,8,12,2,3,3,1,1,5,1,6,1
+"588",8236011,"Dowson,C.G.","Christopher G. Dowson",NA,NA,4,2,1,1,NA,1,3,1,NA,3,5,1,1,2,NA,NA,NA,1,NA
+"589",8294609,"Lockhart,P.J.","Peter James Lockhart",1,1,NA,1,1,3,2,1,3,1,3,1,2,5,1,3,5,1,NA,1,1
+"590",8323286,"Hatfull,G.F.","Graham F.  Hatfull",NA,3,2,3,NA,1,2,2,1,2,3,1,2,NA,3,2,NA,3,9,3,NA
+"591",8327109,"Logsdon,J.M.","John M. Logsdon",1,NA,3,1,1,3,1,NA,3,NA,6,4,NA,3,4,NA,2,NA,NA,NA,1
+"592",8484234,"Nogi,Y.","Yuichi  Nogi",NA,9,3,NA,2,2,NA,6,5,7,3,7,1,2,1,2,2,5,8,3,1
+"593",9039475,"Kuritzkes,D.R.","Daniel R. Kuritzkes",NA,1,2,4,1,1,1,1,NA,1,NA,2,NA,NA,2,4,NA,NA,NA,NA,1
+"594",9206942,"Raga,J.","Juan-Antonio  Raga",NA,2,NA,1,NA,NA,NA,NA,1,NA,1,3,1,2,2,2,1,3,5,1,4
+"595",10069357,"Schartl,M.","Manfred  Schartl",2,5,4,5,6,3,6,2,3,4,3,2,4,4,3,6,4,7,3,2,2
+"596",10281434,"Schumann,P.","Peter  Schumann",6,1,13,8,7,21,19,26,20,25,26,25,16,25,24,21,43,24,33,32,20
+"597",12214283,"Suarez,C.E.","Carlos E.  Suarez",1,3,NA,2,1,1,1,NA,NA,1,1,NA,2,4,1,4,NA,1,3,2,2
+"598",12250909,"Biagini,P.","Philippe  Biagini",NA,NA,1,4,3,3,1,NA,4,1,2,2,NA,2,1,1,NA,NA,1,1,NA
+"599",12673613,"Takami,H.","Hideto  Takami",3,3,13,10,6,1,NA,4,6,NA,2,1,1,3,4,3,1,NA,NA,NA,2
+"600",15041191,"Wilkinson,M.","Mark  Wilkinson",NA,1,NA,NA,NA,2,1,4,NA,3,3,NA,2,NA,2,3,NA,5,2,2,5
+"601",15448670,"Ward,T.J.","Todd J.  Ward",1,NA,1,2,3,2,1,2,1,NA,4,4,NA,1,3,2,2,2,NA,2,1
+"602",21332073,"Barker,N.P.","Nigel P.  Barker",1,NA,NA,NA,NA,1,2,2,1,3,10,4,10,1,9,2,3,2,1,NA,NA
+"603",28863387,"Hahn,M.W.","Martin W. Hahn",NA,NA,2,1,NA,NA,2,2,6,4,5,NA,10,5,5,4,2,3,1,6,6
+"604",29017691,"Small,I.D.","I. D. Small",NA,2,NA,1,NA,NA,1,2,NA,NA,1,1,NA,NA,2,NA,NA,1,1,NA,NA
+"605",29291701,"Hyatt,A.D.","Alex D. Hyatt",1,2,NA,1,1,2,NA,1,3,4,4,1,5,1,1,3,1,1,1,NA,NA
+"606",29761296,"Bertaccini,A.","Assunta  Bertaccini",NA,1,2,NA,1,2,1,1,1,1,1,1,3,1,1,4,3,3,3,1,NA
+"607",31575870,"Wohlleben,W.","Wolfgang  Wohlleben",1,3,3,1,2,3,NA,1,2,1,NA,1,NA,2,2,NA,1,1,1,1,1
+"608",31654003,"Berbee,M.L.","Mary. L. Berbee",NA,NA,4,3,2,1,2,1,2,2,1,1,4,3,2,2,NA,2,2,1,1
+"609",31721147,"Inagaki,Y.","Yuji  Inagaki",6,3,NA,3,1,2,1,5,1,2,7,2,7,6,9,3,1,3,3,3,1
+"610",31722821,"Hunt,D.M.","David M. Hunt",4,6,3,1,2,1,3,1,6,4,3,4,3,1,2,2,1,NA,1,5,1
+"611",31740540,"Parham,P.","Peter  Parham",7,8,8,8,8,4,1,2,2,NA,6,1,3,5,4,1,1,5,NA,5,3
+"612",32103695,"Yasukochi,Y.","Yuji  Yasukochi",NA,1,1,NA,NA,1,NA,4,2,1,1,1,NA,1,4,2,1,1,1,1,NA
+"613",32131486,"Morgan,J.A.","Jessica A T Morgan",1,1,NA,NA,2,1,3,1,1,1,2,NA,NA,2,4,1,NA,2,NA,1,1
+"614",32133687,"Stevens,J.R.","Jamie R. Stevens",NA,1,3,1,1,3,4,2,2,1,1,2,1,NA,2,1,1,NA,2,NA,NA
+"615",32165683,"Okubo,K.","Kataaki  Okubo",NA,NA,2,2,2,4,2,1,NA,1,NA,NA,NA,NA,2,1,2,3,1,NA,1
+"616",32184062,"Streit,W.R.","Wolfgang R. Streit",2,NA,NA,NA,2,1,2,1,1,3,1,NA,6,2,4,5,6,1,1,2,2
+"617",32319907,"Murrell,J.C.","John Colin Murrell",8,1,2,6,5,7,4,6,10,3,6,11,6,4,3,2,3,NA,2,NA,NA
+"618",32347943,"Ray,S.C.","Stuart C.  Ray",NA,2,2,3,3,1,1,3,3,2,3,4,2,3,2,4,NA,3,1,NA,2
+"619",32518350,"Kutty,G.","Geetha  Kutty",NA,1,NA,NA,3,NA,3,NA,NA,NA,1,2,NA,2,NA,NA,2,NA,1,NA,NA
+"620",32563095,"Kawabata,H.","Hiroki  Kawabata",NA,1,NA,1,1,NA,1,2,NA,3,1,2,9,2,2,3,5,5,3,2,1
+"621",32599737,"Yokota,A.","Akira  Yokota",2,NA,2,NA,1,7,4,12,10,12,33,11,12,9,11,11,6,1,NA,1,1
+"622",32657367,"Harris,D.J.","David James  Harris",NA,2,1,5,3,2,3,2,4,4,7,7,6,11,13,17,13,11,6,4,7
+"623",32663554,"Grimwood,J.","Jane  Grimwood",NA,NA,1,NA,17,8,1,13,1,NA,6,14,8,9,3,12,11,NA,NA,9,2
+"624",32697857,"Ferris,P.J.","Patrick J. Ferris",2,NA,NA,NA,1,3,NA,NA,1,NA,2,3,1,2,NA,NA,2,1,NA,1,3
+"625",32739977,"Pradella,S.","Silke  Pradella",NA,1,1,NA,NA,1,NA,4,1,NA,1,NA,1,1,NA,1,2,NA,1,NA,NA
+"626",32770351,"Fay,M.F.","Michael F.  Fay",1,3,1,6,1,4,NA,4,1,2,2,1,6,3,3,4,NA,4,2,1,1
+"627",32852674,"Sharp,P.M.","Paul M. Sharp",1,4,5,1,NA,1,6,7,3,6,6,3,4,1,4,4,1,4,5,4,4
+"628",33527004,"Chae,J.","Joon-seok  Chae",NA,NA,3,4,1,NA,NA,NA,6,1,2,3,2,2,2,NA,2,1,2,5,NA
+"629",33563062,"Aznar,F.","Francisco-Javier  Aznar",NA,1,NA,1,NA,NA,NA,NA,3,NA,1,1,1,1,1,NA,2,1,3,NA,2
+"630",33692774,"Carbone,I.","Ignazio  Carbone",NA,NA,1,NA,1,NA,NA,1,2,NA,2,2,4,NA,3,1,2,2,4,1,NA
+"631",33737507,"Ohta,H.","Hiroyuki  Ohta",2,2,3,2,4,1,2,2,1,3,1,5,1,4,2,3,1,5,2,2,1
+"632",33819085,"Kovacs,G.M.","Gábor M. Kovács",NA,NA,1,2,3,NA,2,1,4,2,2,4,2,3,5,2,NA,2,3,NA,2
+"633",33879056,"Caterino,M.S.","Michael S. Caterino",NA,NA,1,NA,1,2,NA,1,1,1,3,2,2,5,NA,NA,NA,1,1,NA,1
+"634",34047690,"Brown,L.G.","Laura G. Brown",NA,1,1,2,3,NA,5,NA,NA,1,NA,NA,1,2,NA,3,1,5,NA,NA,3
+"635",34161861,"Normand,P.","Philippe  Normand",5,2,3,4,5,1,6,1,5,3,5,2,1,NA,10,5,1,2,NA,1,NA
+"636",34199736,"Winters,M.A.","Mark A. Winters",1,2,NA,2,NA,1,1,NA,2,2,1,1,NA,NA,1,1,NA,NA,1,1,NA
+"637",34353661,"Maekawa,K.","Kiyoto  Maekawa",NA,2,2,2,1,2,NA,1,4,NA,1,1,1,1,2,3,1,3,3,1,1
+"638",34420088,"Brown,I.H.","Ian H. Brown",3,1,NA,2,NA,NA,NA,2,4,NA,3,NA,3,3,3,3,2,NA,2,1,NA
+"639",34423800,"Sampaio,I.","Iracilda  Sampaio",3,3,3,NA,1,1,4,5,3,2,2,3,6,3,2,4,6,7,5,3,4
+"640",34466487,"Hall,R.A.","Roy A.  Hall",NA,NA,2,1,2,NA,1,NA,1,1,1,1,NA,2,1,1,2,2,NA,3,3
+"641",34554488,"Ito,N.","Naoto  Ito",NA,NA,1,NA,1,1,3,NA,NA,NA,1,1,1,1,2,NA,1,NA,NA,3,NA
+"642",34581091,"Watabe,S.","Shugo  Watabe",4,5,4,2,6,NA,4,6,10,7,6,5,3,7,3,2,3,1,4,NA,NA
+"643",34611537,"Misawa,N.","Norihiko  Misawa",1,1,2,NA,NA,1,3,1,4,3,2,4,2,1,3,NA,NA,1,NA,1,NA
+"644",34663544,"Agatsuma,T.","Takeshi  Agatsuma",3,2,2,3,1,NA,2,NA,2,NA,5,3,5,4,NA,NA,5,2,2,2,2
+"645",34713631,"Heenan,P.B.","Peter B. Heenan",NA,NA,2,1,NA,1,NA,1,1,NA,1,2,1,NA,NA,2,3,1,5,NA,1
+"646",34713646,"Yokoyama,N.","Naoaki  Yokoyama",1,1,NA,NA,1,1,1,4,3,1,1,NA,3,1,7,4,11,7,1,4,1
+"647",34756142,"Jackson,R.W.","Robert W. Jackson",NA,NA,2,5,1,NA,NA,NA,4,NA,3,NA,2,NA,1,NA,NA,1,NA,NA,1
+"648",34780197,"Niimi,T.","Teruyuki  Niimi",1,1,NA,NA,1,NA,NA,NA,2,4,1,6,5,2,4,1,1,1,1,3,NA
+"649",34830711,"Blattner,F.R.","Frank R. Blattner",NA,1,2,2,1,1,NA,2,1,5,1,2,1,6,1,2,2,3,2,2,6
+"650",34848404,"Shimada,T.","Toru  Shimada",NA,5,2,3,6,1,7,1,7,3,2,11,5,7,7,4,4,1,4,1,NA
+"651",34855637,"Mita,K.","Kazuei  Mita",8,4,NA,8,13,1,8,4,9,15,10,12,9,10,2,9,3,2,5,NA,4
+"652",34894124,"Modry,D.","David  Modrý",NA,NA,1,NA,3,5,2,1,NA,4,2,3,4,NA,3,6,5,4,11,13,6
+"653",34935126,"Kruger,D.H.","Detlev H. Krüger",NA,NA,3,1,NA,NA,2,1,1,3,1,2,4,2,1,6,2,NA,3,2,3
+"654",34936558,"Whitten,W.M.","W. Mark Whitten",NA,NA,1,2,2,NA,3,NA,NA,3,2,1,3,NA,NA,NA,1,NA,5,NA,NA
+"655",35031117,"Sakakibara,H.","Hitoshi  Sakakibara",2,NA,2,2,1,NA,NA,1,4,2,1,1,2,1,2,1,1,1,2,3,1
+"656",35216522,"Yazaki,K.","Kazufumi  Yazaki",2,NA,3,NA,3,3,NA,1,1,1,5,2,3,2,3,2,1,3,NA,1,3
+"657",35217373,"Hanada,S.","Satoshi  Hanada",1,NA,2,4,NA,5,8,3,7,5,5,8,6,2,3,4,5,6,2,3,NA
+"658",35329205,"Stone,G.N.","GRAHAM N.  STONE",NA,1,NA,NA,3,3,2,1,NA,1,3,2,2,4,3,3,3,2,3,3,4
+"659",35358108,"Djordjevic,S.P.","Steven Philip Djordjevic",NA,1,NA,NA,2,NA,5,NA,2,3,2,1,3,6,NA,1,2,NA,1,NA,1
+"660",35445888,"Cook,J.A.","Joseph Anthony Cook",NA,2,3,3,4,3,2,5,4,2,2,2,7,5,8,5,6,8,1,6,4
+"661",35651895,"Adams,B.J.","BYRON J.  ADAMS",NA,1,NA,4,2,1,3,1,NA,4,NA,1,6,1,2,NA,1,1,1,3,NA
+"662",36162836,"Jirku,M.","Milan  Jirků",2,2,NA,2,2,2,2,2,NA,3,1,3,5,3,NA,4,1,3,7,1,NA
+"663",36513367,"Bartholomew,J.L.","Jerri Lee Bartholomew",1,NA,NA,NA,1,NA,NA,NA,1,2,1,2,1,3,1,1,4,2,NA,NA,2
+"664",36742995,"Simpson,A.G.","Alastair G. B.  Simpson",NA,NA,1,NA,2,4,NA,3,1,7,1,3,2,3,1,5,3,5,4,1,2
+"665",36942574,"Crespi,M.D.","Martin D Crespi",2,3,NA,3,NA,NA,3,1,NA,1,1,NA,1,NA,1,3,NA,NA,NA,NA,1
+"666",37311632,"Suda,S.","Shoichiro  Suda",NA,1,1,NA,1,2,NA,1,1,NA,1,1,1,1,5,1,5,NA,1,3,NA
+"667",37382297,"Yamasaki,S.","Shinji  Yamasaki",NA,NA,2,1,NA,1,4,1,2,4,4,1,4,3,3,2,1,3,2,NA,3
+"668",37477233,"Wellehan,J.F.","James F.X.  Wellehan",2,NA,NA,NA,1,NA,NA,1,NA,NA,NA,1,1,2,3,4,NA,1,2,1,NA
+"669",37566144,"Mizuta,K.","Katsumi  Mizuta",1,NA,1,1,1,1,1,2,3,1,2,NA,5,7,4,7,5,4,3,7,1
+"670",38332260,"Liles,M.R.","Mark R. Liles",NA,1,NA,NA,NA,1,2,NA,NA,1,NA,NA,1,3,6,2,4,2,6,3,NA
+"671",38352473,"Zimmer,E.A.","Elizabeth A. Zimmer",2,2,2,3,1,3,5,2,2,3,NA,2,2,1,NA,3,NA,1,NA,1,3
+"672",38504813,"Nozaki,T.","Tomoyoshi  Nozaki",NA,3,2,3,2,2,4,4,4,3,1,3,1,5,1,NA,1,3,5,2,2
+"673",38785418,"Archibald,A.L.","Alan L. Archibald",1,NA,NA,NA,1,4,1,3,2,2,NA,2,1,2,1,NA,NA,2,1,NA,NA
+"674",39013460,"Tashiro,M.","Masato  Tashiro",1,NA,NA,1,1,NA,1,1,4,NA,NA,1,3,5,1,3,3,1,2,NA,NA
+"675",39140438,"Burger,G.","Gertraud  Burger",1,NA,3,6,NA,2,3,NA,1,1,2,2,4,5,3,2,4,4,1,1,1
+"676",39348886,"Bailey,C.D.","C. Donovan Bailey",NA,NA,1,NA,1,1,NA,1,NA,1,3,NA,NA,2,2,NA,2,1,2,NA,NA
+"677",39353573,"Hain,T.","Torsten  Hain",1,NA,NA,NA,2,NA,NA,NA,4,2,NA,1,1,3,2,2,3,1,1,2,NA
+"678",39714235,"Teixeira,M.M.","Marta Maria Geraldes Teixeira",1,NA,2,NA,1,1,1,2,NA,2,2,2,9,7,3,4,1,NA,4,2,1
+"679",39739363,"Derr,J.N.","James N. Derr",2,NA,2,1,2,NA,1,1,2,NA,2,NA,NA,NA,1,NA,NA,1,1,NA,NA
+"680",39810044,"White,P.A.","Peter A.  White",NA,1,NA,NA,NA,1,NA,NA,2,4,NA,1,NA,2,NA,1,4,3,NA,1,2
+"681",39962875,"Vieira,C.P.","Cristina P.  Vieira",1,1,1,NA,2,1,1,2,3,4,1,8,1,1,2,4,2,2,2,NA,2
+"682",40077728,"Namba,S.","Shigetou  Namba",NA,3,2,NA,4,7,5,3,2,2,2,7,5,5,5,6,4,4,2,7,1
+"683",40200326,"Naidu,R.A.","Rayapati A. Naidu",2,1,NA,3,NA,NA,1,NA,NA,1,NA,3,2,8,6,2,4,1,4,3,2
+"684",40237087,"Bakker,F.T.","Freek T. Bakker",1,3,NA,1,NA,1,NA,3,1,NA,4,NA,2,1,1,1,1,NA,1,NA,NA
+"685",40277250,"Foley,B.T.","Brian Thomas Foley",NA,1,1,2,6,3,4,NA,1,2,11,NA,2,4,5,6,8,NA,2,1,4
+"686",40294231,"Kirschner,M.W.","Marc W.  Kirschner",5,8,3,1,2,1,3,2,1,2,1,5,NA,NA,2,1,NA,NA,5,NA,NA
+"687",40462847,"de Boer,W.","Wietse  de Boer",2,NA,NA,NA,1,NA,1,4,2,NA,1,7,1,1,1,1,1,3,NA,5,1
+"688",40471701,"Silberman,J.D.","Jeffrey D. Silberman",NA,NA,5,1,5,3,1,1,NA,1,2,1,4,5,1,5,1,NA,1,3,NA
+"689",40474233,"Saito,K.","Kazuki  Saito",2,NA,2,1,NA,2,3,NA,4,1,NA,3,1,1,3,1,6,4,2,4,5
+"690",40513216,"Spencer,H.G.","Hamish G. Spencer",NA,NA,1,2,NA,NA,NA,2,4,2,2,NA,6,6,2,3,5,3,1,3,1
+"691",40575409,"Shih,S.","Shin-Ru  Shih",NA,NA,2,1,1,NA,NA,1,1,1,1,1,NA,2,NA,4,1,NA,NA,3,1
+"692",40579687,"Wang,J.","Jun  Wang",1,1,1,1,3,5,NA,7,3,4,10,4,5,6,5,15,16,10,6,1,2
+"693",40657939,"Erdmann,M.V.","Mark V. Erdmann",NA,NA,1,1,2,NA,1,NA,NA,NA,NA,2,NA,1,1,1,1,1,3,NA,NA
+"694",41188552,"Mitchell,A.","Andrew  Mitchell",1,NA,NA,2,NA,1,NA,NA,2,1,2,2,2,2,1,1,2,1,2,1,1
+"695",46455205,"Sugawara,K.","Kanetsu  Sugawara",2,NA,NA,2,2,1,1,4,1,NA,2,NA,1,2,NA,1,NA,2,NA,1,NA
+"696",46547070,"Kato,K.","Kentaro  Kato",3,1,NA,NA,NA,2,NA,NA,1,2,1,NA,1,3,NA,1,1,1,NA,2,NA
+"697",46560240,"Tanaka,Y.","Yoshikazu  Tanaka",1,NA,NA,2,NA,3,1,2,2,7,3,1,2,1,1,NA,NA,4,2,5,2
+"698",46621059,"Kato,M.","Masahiro  Kato",NA,1,NA,NA,1,2,4,2,2,2,1,3,2,2,3,4,NA,NA,NA,2,NA
+"699",46850599,"Rawlinson,W.D.","William D.  Rawlinson",2,NA,1,4,NA,2,3,5,3,3,NA,2,3,4,1,1,3,2,NA,1,NA
+"700",46920639,"Nishijima,M.","Miyuki  Nishijima",1,1,1,1,2,NA,NA,NA,1,1,NA,NA,1,2,NA,2,3,4,5,1,2
+"701",46949619,"Aoki,T.","Takayuki  Aoki",NA,NA,1,NA,2,NA,1,1,3,1,1,2,NA,4,5,3,3,2,NA,1,NA
+"702",47036549,"Matsuda,Y.","Yo-ichi  Matsuda",9,7,11,8,14,3,7,3,7,6,1,4,2,4,3,3,3,7,NA,9,1
+"703",47133835,"Hanni,C.","Catherine  Hänni",1,NA,NA,NA,2,4,2,NA,NA,8,1,6,1,1,1,1,1,NA,NA,1,NA
+"704",47231177,"Kajita,T.","Tadashi  Kajita",1,1,NA,2,1,NA,NA,NA,1,3,NA,1,1,4,1,2,3,1,NA,3,1
+"705",47316737,"Koepfli,K.","Klaus-Peter  Koepfli",1,1,NA,1,NA,NA,7,NA,2,1,2,2,NA,1,2,1,2,NA,1,NA,NA
+"706",47559780,"Amato,G.","George  Amato",1,1,2,NA,1,NA,1,2,1,NA,1,4,3,5,3,7,1,3,1,2,1
+"707",47655228,"Fukami,H.","Hironobu  Fukami",NA,NA,1,1,NA,NA,NA,2,1,NA,5,2,NA,NA,1,3,1,4,NA,NA,1
+"708",47729929,"Moritz,C.C.","Craig C. Moritz",1,3,4,3,3,1,1,1,2,5,7,2,4,3,6,8,3,4,2,2,7
+"709",47743386,"Kato,C.","Chiaki  Kato",3,11,8,NA,NA,3,NA,4,3,7,8,3,1,5,1,1,NA,2,NA,NA,3
+"710",47760656,"Iritani,N.","Nobuhiro  Iritani",NA,NA,1,2,NA,3,3,1,1,1,2,2,NA,2,1,3,NA,2,2,2,NA
+"711",47936210,"Muller,C.P.","Claude P.  Muller",NA,2,2,2,3,NA,1,2,1,5,6,8,13,7,9,4,6,4,2,1,5
+"712",48009423,"Cook,J.M.","James M. Cook",NA,2,NA,1,1,2,3,NA,5,4,2,1,5,1,2,6,NA,1,3,4,1
+"713",48043103,"Allen,S.A.","Susan A. Allen",NA,NA,1,NA,1,2,1,1,1,2,1,1,5,1,3,3,4,1,4,1,NA
+"714",48045754,"Iida,T.","Tetsuya  Iida",1,2,4,5,2,NA,2,NA,1,NA,3,1,1,2,1,NA,NA,2,1,NA,1
+"715",48063967,"Haag,K.L.","Karen Luisa Haag",NA,NA,1,1,1,2,1,2,NA,1,1,1,1,NA,2,NA,NA,1,NA,1,NA
+"716",48094296,"Wang,J.","Jian  Wang",2,NA,NA,NA,1,4,NA,4,NA,2,NA,NA,2,2,6,5,6,3,2,NA,1
+"717",48120204,"Meyer,H.","Hermann  Meyer",NA,1,1,NA,1,1,NA,1,1,1,3,NA,3,1,2,NA,1,1,1,NA,2
+"718",48212351,"Archibald,J.M.","John M. Archibald",NA,NA,1,1,NA,1,5,2,2,3,5,6,5,4,6,4,5,3,1,2,2
+"719",48316207,"Arai,S.","Satoru  Arai",NA,1,NA,NA,1,NA,NA,1,NA,NA,5,4,5,1,NA,2,5,3,1,7,2
+"720",48357892,"Toyoda,A.","Atsushi  Toyoda",1,2,NA,13,14,2,NA,8,8,10,7,17,5,7,8,13,13,4,6,19,10
+"721",48522385,"Yamamoto,K.","Kimiko  Yamamoto",NA,1,NA,NA,NA,3,1,1,NA,2,2,2,1,2,2,3,5,2,3,NA,NA
+"722",48751093,"Haddock,S.H.","Steven H. D. Haddock",NA,1,NA,NA,2,NA,NA,NA,2,1,1,4,1,2,1,2,3,NA,3,1,1
+"723",48819678,"Ichimura,K.","Kazuya  Ichimura",2,2,3,NA,NA,1,1,NA,NA,NA,1,NA,NA,1,NA,2,1,NA,NA,2,NA
+"724",48845691,"Delaporte,E.","Eric  Delaporte",1,2,5,7,3,4,6,9,4,14,4,5,6,7,8,3,7,11,10,4,2
+"725",48856026,"Yamakawa,M.","Makoto  Yamakawa",NA,NA,2,1,NA,1,NA,2,1,2,1,2,1,1,NA,2,2,2,2,2,2
+"726",49009201,"Bergstrom,S.","Sven  Bergström",NA,1,1,1,1,2,NA,1,2,1,1,NA,NA,3,NA,1,NA,NA,1,NA,NA
+"727",49051031,"Zhang,J.","Jun  Zhang",NA,1,1,1,1,1,1,2,NA,7,1,1,1,2,3,1,7,4,4,2,1
+"728",49096766,"Rollin,P.E.","Pierre E.  Rollin",1,NA,1,4,2,NA,2,4,2,4,4,4,4,1,3,6,3,2,NA,NA,3
+"729",49179107,"Macdonald,D.W.","David W. Macdonald",NA,2,NA,1,NA,NA,NA,1,NA,NA,1,NA,NA,NA,1,3,NA,NA,1,NA,2
+"730",49252284,"Chen,J.","Jing  Chen",NA,NA,1,NA,NA,1,2,1,NA,NA,1,7,NA,2,3,NA,2,3,7,9,2
+"731",49258018,"Tsuchiya,K.","Kimiyuki  Tsuchiya",1,2,2,4,NA,2,5,4,2,3,1,2,1,1,NA,1,3,NA,1,2,NA
+"732",49359835,"Mizutani,T.","Tetsuya  Mizutani",2,1,1,NA,1,1,2,3,1,1,3,1,3,4,3,3,4,7,12,12,11
+"733",49491574,"Mcdonald,I.R.","Ian R. McDonald",5,1,3,3,3,3,2,6,19,7,5,2,1,2,1,1,NA,1,1,NA,NA
+"734",49507850,"Matsuura,K.","Katsumi  Matsuura",3,1,3,NA,1,2,NA,1,1,NA,2,1,1,NA,1,3,NA,NA,NA,2,NA
+"735",49662583,"Fukuhara,T.","Toshiyuki  Fukuhara",NA,1,3,1,NA,NA,1,1,NA,1,NA,NA,1,1,2,2,1,1,1,2,NA
+"736",49714761,"Ishida,K.","Ken-Ichiro  Ishida",2,NA,1,NA,NA,1,3,1,2,1,2,2,7,1,8,4,1,3,7,5,2
+"737",49718113,"Osaki,M.","Makoto  Osaki",NA,1,NA,4,6,2,2,NA,1,1,NA,2,1,1,2,2,3,1,1,NA,NA
+"738",49800742,"Parreira,R.","Ricardo  Parreira",NA,NA,1,3,1,1,2,5,2,2,1,NA,2,2,3,4,5,2,7,11,1
+"739",50010374,"Frey,J.","Joachim  Frey",1,2,6,8,4,8,7,5,7,7,3,2,3,3,3,3,1,4,2,NA,1
+"740",50080584,"Li,X.S.","X. S. Li",1,NA,1,NA,NA,1,NA,4,8,1,1,1,2,3,1,2,1,1,1,3,2
+"741",50168378,"Smith,T.P.","Timothy P. L. Smith",NA,NA,1,5,2,31,2,3,3,5,2,6,NA,1,NA,1,2,4,3,11,1
+"742",50184152,"Kimura,A.","Akinori  Kimura",2,1,NA,NA,1,NA,NA,1,NA,NA,NA,1,NA,4,2,2,NA,1,1,NA,1
+"743",50220750,"Lawson,P.A.","Paul Alexander Lawson",3,4,9,9,9,6,9,10,11,4,3,4,3,2,5,4,9,3,9,5,6
+"744",50273986,"Rose,J.K.","Jocelyn Kenneth Campbell Rose",2,1,NA,2,1,3,1,NA,2,3,1,2,NA,1,1,1,NA,NA,NA,NA,1
+"745",50300507,"Takahashi,Y.","Yoko  Takahashi",1,NA,NA,1,NA,1,1,1,NA,2,8,8,2,6,4,5,6,4,6,5,1
+"746",50306278,"Blaxter,M.L.","Mark L. Blaxter",3,6,NA,3,NA,5,2,11,11,3,4,1,1,3,2,7,NA,NA,NA,1,2
+"747",50350604,"Hanada,K.","Kaoru  Hanada",2,1,NA,1,2,NA,1,1,1,5,NA,1,1,1,NA,NA,1,NA,NA,NA,2
+"748",50397068,"Papa,A.","Anna  Papa",NA,2,2,2,1,5,1,4,1,4,2,1,2,3,4,1,2,2,2,5,5
+"749",50500830,"Ushijima,H.","Hiroshi  Ushijima",1,NA,1,NA,5,NA,4,10,9,13,16,9,11,11,8,13,7,3,5,1,4
+"750",50502276,"Littlewood,D.T.","D. Timothy J.  Littlewood",2,3,1,NA,2,NA,2,NA,NA,1,2,3,1,4,1,5,2,6,5,4,3
+"751",50569062,"Naruse,T.K.","Taeko K. Naruse",1,NA,1,1,3,1,1,NA,1,2,NA,NA,2,2,1,1,NA,1,1,NA,1
+"752",50648123,"Ishikawa,Y.","Yukio  Ishikawa",NA,NA,1,NA,NA,1,1,NA,2,3,2,NA,2,3,6,1,2,3,2,NA,NA
+"753",50650732,"Ohnishi,M.","Makoto  Ohnishi",NA,NA,2,8,2,2,NA,NA,2,NA,NA,1,2,2,8,4,3,4,4,2,1
+"754",50651924,"Li,M.","Min  Li",NA,3,NA,NA,NA,2,NA,NA,2,NA,1,3,2,NA,NA,6,1,10,2,1,2
+"755",50784250,"Takeyama,H.","Haruko  Takeyama",2,NA,1,3,1,NA,1,2,3,2,NA,1,1,1,4,NA,1,2,3,2,1
+"756",51028286,"Rubio,L.","Luis  Rubio",NA,NA,1,2,2,1,2,NA,3,2,2,1,3,NA,5,3,2,4,4,2,NA
+"757",66816214,"Anton,J.","Josefa  Antón",NA,NA,1,2,1,1,1,NA,2,5,5,3,2,4,3,2,NA,4,1,3,1
+"758",71101431,"Nishio,T.","Takeshi  Nishio",1,1,2,2,NA,3,3,1,24,3,2,3,NA,1,1,1,1,2,NA,NA,1
+"759",72942619,"Suzuki,K.","Ken-ichiro  Suzuki",1,2,1,NA,NA,2,NA,NA,1,4,6,11,9,12,5,14,11,11,10,4,1
+"760",74035562,"Shimizu,H.","Hiroyuki  Shimizu",1,NA,3,NA,NA,2,1,1,6,1,1,2,NA,1,3,3,4,3,3,NA,NA
+"761",77387961,"Nam,B.","Bo-Hye  Nam",1,NA,NA,2,1,NA,1,NA,1,NA,1,5,11,4,10,8,10,9,11,8,5
+"762",79403916,"Nikaido,M.","Masato  Nikaido",NA,NA,2,3,3,1,6,1,2,6,3,1,1,4,1,1,6,3,1,NA,NA
+"763",82918228,"Deplazes,P.","Peter  Deplazes",1,1,8,NA,NA,1,NA,1,1,1,3,1,1,NA,1,1,5,1,NA,1,NA
+"764",83180699,"Su,Z.","Zhi-Hui  Su",NA,2,1,3,2,NA,2,2,1,1,1,2,NA,2,1,2,1,1,NA,1,1
+"765",83774076,"Moriones,E.","Enrique  Moriones",1,NA,NA,3,1,3,1,1,1,2,4,1,NA,3,1,5,7,2,3,2,NA
+"766",87419212,"O'Donnell,K.","Kerry  O’Donnell",2,6,2,2,4,3,3,5,1,3,5,4,4,7,9,10,3,3,2,6,3
+"767",88057736,"James,H.F.","Helen F. James",NA,NA,2,NA,NA,3,1,NA,NA,NA,NA,2,1,NA,1,2,NA,NA,1,1,NA
+"768",88283518,"Vleeshouwers,V.G.","Vivianne G. A. A. Vleeshouwers",1,NA,NA,NA,1,NA,NA,NA,1,NA,NA,1,2,2,2,1,NA,NA,1,NA,NA
+"769",88351109,"Taniguchi,K.","Koki  Taniguchi",NA,2,1,2,2,2,3,3,3,4,1,4,NA,1,2,2,2,4,3,5,3
+"770",89267232,"Harry,M.","Myriam  Harry",NA,1,NA,1,1,NA,NA,1,NA,1,3,3,2,NA,NA,NA,NA,3,1,1,NA
+"771",90124902,"Chaix,M.","Marie-Laure  Chaix",NA,NA,1,1,1,1,1,NA,1,1,NA,1,2,2,6,2,1,1,NA,4,1
+"772",90629427,"Reynes,J.","Jean-Marc  Reynes",NA,NA,2,NA,1,NA,2,NA,7,2,2,4,1,1,2,2,4,3,1,1,1
+"773",101465381,"Schmidt,A.","Axel  Schmidt",NA,1,NA,NA,1,NA,NA,2,NA,NA,2,2,NA,3,2,NA,3,4,NA,1,NA
+"774",104495859,"Gonzalez,L.","Luis-Miguel  Gonzalez",NA,1,NA,NA,NA,2,2,1,1,1,4,2,NA,NA,2,NA,NA,2,NA,2,NA
+"775",113917074,"de Lajudie,P.","Philippe  de Lajudie",NA,2,2,1,1,2,1,4,1,1,1,1,5,1,NA,1,NA,2,1,NA,1
+"776",113954886,"Van Laethem,K.","Kristel  Van Laethem",NA,2,1,1,1,2,NA,NA,2,NA,NA,3,1,NA,1,NA,NA,1,1,NA,2
+"777",114802251,"Van Poucke,M.","Mario  Van Poucke",NA,NA,2,NA,4,8,4,2,7,4,1,1,1,3,NA,1,NA,NA,1,NA,NA
+"778",119650059,"Flint,H.J.","Harry J. Flint",4,2,6,4,5,3,3,5,1,15,5,4,4,2,2,6,NA,4,5,NA,1
+"779",121256342,"Yoon,J.","Jung-Hoon  Yoon",NA,NA,1,2,NA,5,11,16,28,24,40,25,20,21,13,36,42,47,29,34,29
+"780",121317014,"Sanz,L.","Libia  Sanz",1,NA,NA,NA,NA,1,NA,NA,1,3,1,1,NA,NA,2,NA,2,NA,NA,4,1
+"781",121342439,"Alen,T.A.","Theo A. van Alen",NA,1,NA,1,NA,NA,NA,1,NA,NA,2,2,3,NA,5,4,NA,NA,NA,2,NA
+"782",122316923,"Hara,Y.","Yoshiaki  Hara",2,1,NA,NA,NA,2,1,2,NA,1,NA,1,2,3,2,2,1,1,1,NA,NA
+"783",123106481,"Chen,W.","Wei-Jen  Chen",NA,1,NA,NA,NA,1,2,1,NA,1,3,8,3,3,NA,4,7,6,2,4,7
+"784",123519236,"Andolfatto,P.","Peter  Andolfatto",NA,NA,1,2,2,NA,NA,1,1,3,2,1,NA,1,3,2,1,NA,NA,NA,1
+"785",134049379,"Boulouis,H.","Henri-Jean  Boulouis",NA,NA,2,2,NA,1,NA,1,NA,NA,2,NA,1,2,NA,1,NA,2,NA,1,1
+"786",143608502,"Dietrich,F.S.","Fred S. Dietrich",2,NA,1,1,1,1,3,5,3,3,2,1,NA,7,3,1,4,2,6,NA,NA
+"787",143612832,"Douzery,E.J.","Emmanuel J. P. Douzery",2,NA,7,3,3,5,5,1,2,6,5,2,5,1,2,1,5,5,NA,1,NA
+"788",143635839,"Sato,F.","Fumihiko  Sato",1,NA,NA,4,2,4,2,1,2,NA,9,4,1,NA,1,2,1,1,1,NA,4
+"789",143638176,"Aoki,T.A.","Takashi AokiT. Aoki",6,6,3,8,2,6,8,8,13,11,14,12,8,8,11,6,4,NA,1,1,1
+"790",143649263,"Moore,E.R.","Edward R. B. Moore",4,7,11,6,6,3,1,2,NA,3,2,4,2,5,8,12,18,3,6,4,NA
+"791",143652200,"Klenk,H.","Hans-Peter  Klenk",5,3,2,1,1,2,NA,3,2,1,1,2,46,63,67,33,38,17,21,27,17
+"792",143656883,"Boutry,M.","Marc  Boutry",NA,NA,2,4,3,NA,2,1,4,NA,NA,2,1,NA,1,4,1,NA,NA,1,1
+"793",143661101,"Elliot,A.D.","Aileen D Elliot",NA,2,1,1,NA,NA,NA,1,1,NA,1,NA,NA,1,NA,1,1,NA,2,2,1
+"794",143668857,"Williamson,M.S.","Martin S.  Williamson",NA,1,2,NA,1,2,NA,3,1,1,1,NA,1,NA,2,3,3,1,1,1,NA
+"795",143669220,"Dairi,T.","Tohru  Dairi",2,3,2,6,2,1,3,3,1,1,3,3,NA,NA,3,1,1,NA,2,NA,1
+"796",143699979,"Vidal,N.","Nicole  Vidal",2,NA,1,3,2,NA,2,NA,2,4,2,2,2,1,2,1,4,NA,2,2,1
+"797",143703605,"Meyer,A.","Axel  Meyer",4,3,2,6,4,6,9,15,12,5,20,7,3,2,2,2,6,3,3,2,1
+"798",143724101,"Ayala,F.J.","Francisco Jose Ayala",5,1,4,1,4,4,2,5,2,1,1,5,2,3,2,3,3,5,2,4,4
+"799",143725527,"Scherer,S.","Siegfried  Scherer",2,2,4,NA,NA,4,NA,NA,4,3,NA,2,1,1,1,5,7,NA,1,2,1
+"800",143733282,"Holden,M.T.","Matthew T. G. Holden",NA,1,NA,NA,2,NA,4,2,3,3,2,3,5,2,4,NA,3,3,2,1,1
+"801",143743023,"Abraham,W.","Wolf-Rainer  Abraham",NA,2,2,1,3,1,2,4,3,1,1,3,1,2,3,NA,2,1,2,NA,1
+"802",143782541,"Simmonds,P.","Peter  Simmonds",7,4,7,2,2,2,4,1,5,1,1,10,9,10,9,10,8,8,8,5,6
+"803",143785997,"Gulland,F.M.","Frances M. D. Gulland",NA,1,NA,NA,1,2,NA,NA,1,2,1,NA,1,2,7,3,NA,NA,4,NA,NA
+"804",143791278,"Wilson,I.A.","Ian A.  Wilson",NA,NA,1,1,NA,NA,NA,2,NA,1,NA,2,1,NA,4,2,2,5,NA,5,6
+"805",143818433,"Bennetzen,J.L.","Jeffrey L. Bennetzen",2,3,1,NA,1,12,1,15,5,1,8,10,4,4,7,5,5,2,1,1,3
+"806",143827413,"Vandamme,A.","Anne-Mieke  Vandamme",3,5,NA,3,5,6,4,5,9,1,5,4,2,NA,1,2,1,3,2,2,1
+"807",143844476,"Maeda,K.","Kenji  Maeda",2,1,NA,NA,NA,1,NA,NA,2,NA,NA,1,2,1,1,4,3,3,6,NA,6
+"808",143871257,"Michelmore,R.W.","Richard W.  Michelmore",1,4,NA,NA,1,3,1,3,1,1,3,4,5,NA,3,1,NA,NA,1,10,2
+"809",143872915,"Gomi,K.","Katsuya  Gomi",NA,NA,1,1,NA,1,NA,NA,3,1,1,1,1,NA,NA,NA,2,NA,3,2,1
+"810",143874037,"Cooper,S.J.","Steven J. B.  Cooper",1,1,1,1,3,2,2,2,1,3,5,3,4,4,5,10,2,6,6,1,5
+"811",143885229,"Yamaguchi,R.","Ryoji  Yamaguchi",NA,NA,1,3,NA,NA,1,NA,2,2,2,NA,3,NA,NA,1,8,NA,1,NA,2
+"812",143889532,"Gillevet,P.M.","Patrick M. Gillevet",1,2,NA,1,NA,NA,2,NA,1,NA,1,5,2,1,2,NA,1,3,4,NA,2
+"813",143907325,"Scholz,T.","Tomáš  Scholz",1,NA,NA,1,2,NA,3,2,1,2,1,3,2,3,6,7,3,6,14,3,9
+"814",143914223,"Jetten,M.S.","Mike S. M. Jetten",2,NA,1,NA,NA,1,4,1,3,6,8,9,10,7,14,11,8,2,2,2,3
+"815",143914639,"Yamasaki,H.","Hiroshi  Yamasaki",NA,2,NA,NA,NA,3,NA,2,1,3,4,1,2,2,1,2,5,4,6,2,4
+"816",143923803,"Leonard,J.A.","JENNIFER A.  LEONARD",NA,1,NA,1,2,2,2,NA,2,1,1,2,2,1,3,2,4,NA,1,2,1
+"817",143930356,"Feldmann,H.","Heinz  Feldmann",1,4,2,NA,NA,2,2,2,NA,1,1,NA,NA,2,NA,NA,3,4,1,3,NA
+"818",143957820,"Kamoun,S.","Sophien  Kamoun",2,NA,3,NA,1,4,3,1,11,3,4,8,1,4,1,3,1,NA,4,2,1
+"819",143962245,"Kennedy,M.","Martyn  Kennedy",NA,NA,1,2,NA,NA,1,3,3,3,2,NA,2,1,1,1,5,3,2,1,1
+"820",143989902,"Paulin,L.G.","Lars G Paulín",4,2,8,4,5,1,4,2,6,NA,5,6,10,5,5,4,2,3,3,NA,2
+"821",144010213,"Wagner,M.","Michael  Wagner",1,2,4,3,8,7,6,6,9,8,9,8,4,7,6,7,4,3,6,NA,2
+"822",144032323,"Venkatesh,B.","Byrappa  Venkatesh",4,1,1,NA,4,7,3,4,6,2,4,4,6,3,3,9,6,10,1,8,3
+"823",144052879,"Gibson,W.C.","Wendy C. Gibson",NA,1,2,2,1,1,2,2,4,2,NA,2,1,5,NA,2,NA,2,1,NA,NA
+"824",144053689,"Plyusnin,A.","Alexander  Plyusnin",2,2,5,2,4,4,2,5,1,2,3,9,4,1,2,10,4,1,1,NA,NA
+"825",144068688,"Mayer,K.F.","Klaus F. X. Mayer",NA,1,3,2,1,NA,NA,4,NA,NA,2,6,5,NA,3,5,4,6,NA,2,2
+"826",144086833,"Thulin,M.","Mats  Thulin",NA,1,NA,2,1,NA,1,2,NA,1,3,NA,2,2,2,4,NA,NA,NA,1,NA
+"827",144110632,"Oka,S.","Shin-Ichi  Oka",2,NA,3,NA,2,NA,3,1,NA,NA,1,NA,3,4,2,NA,NA,1,1,NA,2
+"828",144115017,"Blair,D.","David  Blair",5,4,3,5,1,3,NA,1,2,3,1,2,5,6,4,1,3,4,1,3,3
+"829",144134274,"Samadi,S.","Sarah  Samadi",NA,1,NA,NA,1,NA,1,2,1,2,4,3,5,3,1,1,1,1,1,3,1
+"830",144184457,"Osorio,F.A.","Fernando A.  Osorio",NA,NA,1,2,NA,1,NA,2,NA,1,NA,2,NA,NA,1,1,NA,1,1,NA,1
+"831",144188990,"Yokoyama,J.","Jun  Yokoyama",1,NA,1,2,1,1,4,2,4,3,2,4,5,2,5,4,1,5,2,1,NA
+"832",144196930,"Salemi,M.","Marco  Salemi",NA,5,NA,2,2,3,3,1,4,NA,NA,1,2,NA,3,5,2,2,4,6,5
+"833",144198559,"Williamson,C.","Carolyn  Williamson",1,1,1,NA,2,2,1,1,NA,1,3,2,2,1,4,2,4,4,3,6,NA
+"834",144203392,"Kirchhoff,F.","Frank  Kirchhoff",1,NA,1,1,NA,NA,1,1,2,2,1,2,4,3,NA,3,1,1,1,1,2
+"835",144217503,"Roger,A.J.","Andrew J.  Roger",NA,4,6,2,3,9,5,7,1,6,5,7,2,4,3,6,1,6,5,3,3
+"836",144234474,"Olsen,B.","Björn  Olsen",NA,NA,1,1,NA,NA,1,NA,3,3,NA,2,NA,7,1,3,3,2,3,NA,1
+"837",144258685,"Kataoka,H.","Hiroshi  Kataoka",NA,1,NA,2,2,NA,1,1,4,4,1,3,2,1,2,2,4,1,1,1,NA
+"838",144262168,"Page,D.C.","David C. Page",5,3,6,7,9,5,10,3,9,1,NA,2,1,5,NA,3,2,5,NA,1,3
+"839",144263615,"Swanstrom,R.I.","Ronald I Swanstrom",1,1,2,1,2,1,4,2,2,1,2,4,2,3,6,1,4,NA,1,5,1
+"840",144276687,"Graham,S.W.","SEAN W.  GRAHAM",NA,1,NA,2,3,1,4,4,NA,NA,3,4,1,2,3,1,1,4,10,5,3
+"841",144281156,"Osterhaus,A.D.","Albert D. M. E.  Osterhaus",NA,1,3,4,7,5,2,8,6,2,3,6,2,4,3,7,11,7,3,3,3
+"842",144295924,"Wayne,R.K.","ROBERT K.  WAYNE",4,2,NA,1,4,1,7,2,8,4,6,4,5,1,1,5,3,2,1,NA,NA
+"843",144400979,"Danchin,A.","Antoine  Danchin",5,2,1,NA,2,1,6,1,2,2,1,5,1,NA,1,1,1,NA,NA,1,NA
+"844",144401941,"Cooper,A.","Alan  Cooper",1,NA,2,NA,2,4,4,7,6,2,2,2,4,NA,3,1,3,5,3,7,2
+"845",144403054,"Reinhardt,R.","Richard  Reinhardt",2,1,2,18,17,5,7,18,17,8,8,17,15,25,17,13,6,12,1,NA,2
+"846",144417809,"Morris,L.","Lynn  Morris",NA,1,NA,2,2,3,4,2,3,6,5,4,6,4,3,1,3,6,4,7,3
+"847",144427364,"Dominguez,L.","Lucas  Dominguez",1,1,3,NA,NA,1,5,2,4,2,5,4,4,2,6,11,3,6,5,2,3
+"848",144450416,"Power,D.M.","Deborah M.  Power",1,1,NA,1,3,NA,1,2,5,5,1,1,1,5,1,6,1,4,3,2,5
+"849",144452430,"Pawlowski,J.W.","Jan W Pawlowski",2,2,5,8,7,2,11,11,14,5,8,4,11,7,6,2,8,3,7,2,4
+"850",144459751,"Bhattacharya,D.","Debashish  Bhattacharya",1,1,2,7,3,4,2,8,5,7,6,8,6,NA,8,6,6,2,1,2,2
+"851",144470621,"Wren,B.W.","Brendan W. Wren",2,3,4,2,4,1,NA,NA,2,2,1,NA,3,3,NA,NA,5,2,3,1,NA
+"852",144505179,"Sakoda,Y.","Yoshihiro  Sakoda",NA,NA,1,NA,1,NA,2,1,NA,1,1,4,1,3,5,2,1,2,3,3,2
+"853",144507863,"Hill,C.","Colin  Hill",1,1,3,1,4,1,2,NA,1,NA,1,2,1,1,3,2,2,4,2,2,3
+"854",144510474,"Gittenberger,E.","Edmund  Gittenberger",NA,NA,2,1,1,NA,NA,5,2,1,NA,1,NA,1,1,1,1,NA,NA,1,2
+"855",144524278,"Montefiori,D.C.","David Charles Montefiori",2,1,1,NA,1,2,NA,2,2,2,1,1,4,2,10,9,11,7,4,10,7
+"856",144578312,"Peeters,M.","Martine  Peeters",2,2,8,7,5,4,9,9,5,16,5,7,13,14,10,9,9,9,10,9,5
+"857",144583719,"Busse,H.","Hans-Jürgen  Busse",1,NA,4,3,7,16,12,3,8,12,9,10,12,19,15,19,23,11,32,24,18
+"858",144596318,"Suzuki,Y.","Yutaka  Suzuki",NA,3,1,2,3,3,7,8,4,13,2,6,7,1,2,4,8,5,4,20,4
+"859",144624855,"Ishikawa,J.","Jun  Ishikawa",NA,NA,2,NA,2,1,2,2,NA,2,2,3,NA,1,2,NA,NA,2,2,NA,1
+"860",144635817,"Maldonado,J.E.","Jesús E. Maldonado",1,1,1,NA,1,1,NA,1,1,1,2,2,NA,3,1,3,4,1,4,8,NA
+"861",144640612,"Gutierrez,S.","Santiago  Gutiérrez",1,2,2,1,1,2,NA,NA,1,8,1,1,2,1,4,NA,1,NA,1,NA,NA
+"862",144669368,"Laudet,V.","Vincent  Laudet",4,4,1,5,2,5,5,13,4,2,1,7,2,NA,NA,5,1,3,NA,1,NA
+"863",144677574,"Fonseca,D.M.","Dina Madera Fonseca",NA,1,NA,NA,1,NA,NA,2,3,3,NA,NA,1,2,1,NA,3,1,1,2,1
+"864",144705651,"Ho,D.D.","David D. Ho",7,5,1,3,2,1,NA,2,1,1,NA,NA,NA,NA,1,NA,NA,1,3,2,NA
+"865",144718851,"Geffen,E.","Eli  Geffen",1,NA,1,NA,1,NA,1,1,NA,NA,1,1,NA,1,2,NA,1,NA,1,NA,NA
+"866",144727063,"Shaw,G.M.","George M.  Shaw",1,3,2,NA,4,2,5,8,4,7,6,5,11,7,8,10,11,6,8,10,7
+"867",144735482,"Forstner,M.R.","Michael R. J.  Forstner",NA,1,NA,NA,1,1,2,NA,2,2,2,4,NA,NA,2,2,NA,NA,NA,1,1
+"868",144746276,"Fukui,M.","Manabu  Fukui",NA,1,1,1,1,5,5,2,1,5,NA,3,8,4,7,7,6,8,7,12,6
+"869",144748081,"Samuel,R.","Rosabelle  Samuel",1,NA,NA,NA,4,1,3,1,5,5,2,NA,2,4,1,NA,1,NA,1,NA,2
+"870",144762279,"Takada,A.","Ayato  Takada",1,2,1,2,NA,NA,NA,1,2,1,1,NA,1,2,4,3,4,2,4,3,9
+"871",144824163,"Muller,R.","Rolf-Joachim  Müller",NA,2,3,3,3,2,1,2,2,5,4,2,2,5,5,2,3,6,7,8,9
+"872",144824615,"Schwan,T.G.","Tom G. Schwan",2,2,NA,3,NA,NA,1,1,3,6,3,4,4,4,NA,4,6,4,1,1,NA
+"873",144831199,"Monod,M.","Michel  Monod",4,1,NA,5,1,3,NA,4,3,1,4,3,1,2,1,1,1,2,NA,2,2
+"874",144836707,"Watanabe,M.M.","Makoto M.  Watanabe",NA,2,1,NA,NA,2,NA,3,1,1,3,3,4,NA,3,7,NA,2,2,NA,NA
+"875",144848285,"Amonsin,A.","Alongkorn  Amonsin",1,NA,NA,NA,1,NA,NA,5,2,5,3,3,1,4,3,2,3,2,3,4,1
+"876",144853148,"Saeij,J.P.","Jeroen P. J. Saeij",NA,NA,1,1,NA,NA,2,NA,NA,2,NA,NA,NA,NA,1,1,NA,NA,NA,4,NA
+"877",144882058,"Wingfield,M.J.","Michael John Wingfield",NA,2,5,5,17,5,11,18,22,32,14,17,24,27,22,18,25,17,23,25,29
+"878",144890453,"Flores,R.","Ricardo  Flores",1,3,4,2,1,2,3,2,1,6,NA,3,2,NA,NA,3,1,2,2,NA,1
+"879",144899396,"Walker,M.J.","Mark J.  Walker",NA,2,NA,2,1,2,5,3,NA,3,1,1,1,3,NA,1,1,2,NA,NA,1
+"880",144902876,"Dubey,J.P.","Jitender P.  Dubey",1,1,4,1,5,1,1,5,2,4,2,3,NA,1,3,1,3,2,6,5,4
+"881",144905014,"Chakraborty,T.","Trinad  Chakraborty",3,2,2,NA,2,NA,NA,1,4,2,NA,1,1,3,2,1,3,2,1,6,NA
+"882",144914703,"Nishida,M.","Mutsumi  Nishida",3,4,4,7,12,5,14,17,12,16,12,14,19,10,6,4,9,4,3,4,1
+"883",144979230,"Horn,M.","Matthias  Horn",NA,NA,3,2,3,5,2,4,3,2,2,4,1,2,3,7,2,6,2,5,1
+"884",144979748,"Smalla,K.","Kornelia  Smalla",NA,NA,6,1,NA,4,3,NA,3,7,9,4,6,8,2,8,8,3,1,NA,NA
+"885",145002648,"Shi,S.","Su-Hua  Shi",NA,NA,2,2,1,2,NA,2,3,3,2,7,NA,3,7,3,4,3,2,1,NA
+"886",145007996,"Andersson,L.","Leif  Andersson",3,2,2,1,1,5,2,4,4,7,2,3,5,3,1,3,1,3,4,3,1
+"887",145028479,"Korber,B.T.","Bette T. M. Korber",2,4,3,NA,3,5,3,4,2,7,8,2,4,3,4,4,4,3,3,8,5
+"888",145078422,"Chambers,G.K.","Geoffrey K. Chambers",1,NA,NA,3,2,2,NA,2,1,1,NA,2,2,NA,1,NA,NA,3,1,NA,NA
+"889",145080052,"Visser,R.G.","Richard G. F.  Visser",2,NA,NA,1,1,1,4,4,2,2,2,1,3,4,7,4,2,1,2,1,1
+"890",145095860,"Bray,R.A.","Rodney A.  Bray",NA,1,2,NA,1,NA,2,1,NA,NA,1,NA,1,2,2,2,1,4,2,4,2
+"891",145096244,"Keller,B.","Beat  Keller",1,2,3,2,6,3,5,2,5,4,4,NA,8,5,5,1,2,4,2,1,NA
+"892",145127160,"Walker,P.J.","Peter J. Walker",2,1,1,2,NA,2,1,NA,2,1,NA,3,2,2,1,3,4,5,7,3,2
+"893",145145926,"Vila,C.","Carles  Vilà",1,1,NA,NA,4,1,NA,1,1,2,1,3,1,1,2,NA,1,2,NA,NA,1
+"894",145150366,"Govers,F.","Francine  Govers",2,NA,3,1,2,2,1,1,4,8,NA,3,2,2,2,NA,1,NA,2,NA,NA
+"895",145175725,"Nowotny,N.","Norbert  Nowotny",2,NA,NA,1,3,2,1,2,5,7,4,NA,6,7,7,1,4,14,5,2,5
+"896",145181344,"Corre,E.","Erwan  Corre",NA,NA,1,NA,2,NA,2,1,NA,3,NA,NA,3,3,1,NA,1,NA,NA,1,2
+"897",145190475,"Yoshimatsu,K.","Kumiko  Yoshimatsu",1,NA,1,1,NA,1,1,1,NA,3,NA,1,3,4,2,6,5,1,NA,NA,2
+"898",145211741,"Hansen,K.","Karen  Hansen",NA,1,1,NA,2,1,NA,1,3,6,1,5,1,NA,1,2,2,2,9,2,NA
+"899",145233033,"Ito,A.","Akira  Ito",2,NA,NA,2,NA,3,1,3,2,5,7,2,6,8,3,8,5,4,2,NA,2
+"900",145257999,"Ross,R.P.","R. Paul Ross",NA,1,4,1,1,1,1,4,3,3,2,1,2,3,5,2,2,5,4,2,3
+"901",145258684,"Bunce,M.","Michael  Bunce",3,1,1,NA,1,NA,3,4,4,2,4,1,3,2,3,1,1,1,3,1,1
+"902",145266134,"Conti,E.","Elena  Conti",NA,1,1,NA,1,2,2,3,NA,3,NA,4,1,1,1,2,NA,2,1,1,NA
+"903",145267801,"Clark,C.G.","C. Graham Clark",1,1,2,NA,2,1,3,NA,3,3,NA,4,1,2,1,3,2,NA,2,3,NA
+"904",145280180,"Clark,A.G.","Andrew G. Clark",4,2,1,3,5,2,4,3,8,1,9,3,NA,1,5,2,1,1,1,NA,3
+"905",145282802,"Eisen,J.A.","Jonathan A.  Eisen",1,1,3,7,3,11,6,6,3,3,109,2,34,52,38,13,8,2,4,NA,1
+"906",145295266,"Lipkin,W.I.","W. Ian  Lipkin",NA,NA,1,NA,1,1,NA,1,2,5,6,7,6,14,18,15,17,8,7,5,8
+"907",145301056,"Cock,J.M.","J. Mark  Cock",1,NA,1,NA,3,3,1,NA,1,2,NA,2,3,4,1,NA,2,NA,1,NA,NA
+"908",145308395,"Thomson,N.R.","Nicholas R. Thomson",1,1,1,1,4,2,5,2,2,6,2,12,9,9,5,6,7,7,6,5,1
+"909",145317570,"Glaser,P.","Philippe  Glaser",5,1,NA,2,2,2,4,3,1,3,NA,1,1,1,1,2,2,1,1,1,NA
+"910",145318778,"Bryant,D.A.","Donald A.  Bryant",3,4,1,NA,NA,2,1,2,1,3,5,1,1,NA,2,6,1,4,1,2,1
+"911",145319467,"Samson,R.A.","Robert A.  Samson",1,NA,NA,NA,2,NA,NA,5,8,1,10,11,5,5,22,5,14,8,5,18,10
+"912",145322406,"Satoh,N.","Noriyuki  Satoh",8,6,5,7,9,18,7,6,7,4,7,1,4,2,1,2,4,3,13,7,6
+"913",145340672,"Davison,A.J.","Andrew J.  Davison",NA,4,3,1,2,NA,9,7,4,3,2,NA,3,7,4,3,3,NA,6,5,NA
+"914",145343547,"Carrington,M.","Mary  Carrington",2,NA,NA,NA,1,NA,1,1,2,2,1,3,3,1,3,2,1,3,1,NA,1
+"915",145362403,"Carranza,S.","Salvador  Carranza",2,2,5,1,1,2,1,3,1,5,NA,2,3,8,3,8,5,6,7,9,6
+"916",145379634,"Shafer,R.W.","Robert W. Shafer",2,2,2,3,1,3,5,1,3,1,NA,3,2,3,1,2,1,NA,NA,1,5
+"917",145388700,"Buell,C.R.","C. Robin Buell",NA,NA,1,NA,NA,3,3,2,3,9,1,7,2,1,8,1,5,1,NA,1,NA
+"918",145430697,"Melnick,D.J.","Don J.  Melnick",2,1,1,1,3,2,7,3,4,2,1,NA,NA,1,NA,NA,1,NA,NA,1,NA
+"919",145440427,"Eichler,E.E.","Evan E. Eichler",3,3,5,2,14,1,7,17,17,6,NA,1,9,8,1,10,5,3,2,1,1
+"920",145457982,"Kress,W.J.","W. John Kress",1,NA,NA,1,1,1,NA,1,2,1,NA,NA,2,3,1,2,NA,1,4,2,NA
+"921",145458018,"Stauffer,C.","Christian  Stauffer",1,NA,NA,NA,NA,3,NA,2,3,4,4,6,2,NA,4,NA,4,NA,NA,2,NA
+"922",145467057,"Quinn,T.C.","Thomas C.  Quinn",1,1,NA,NA,2,1,NA,3,1,2,1,1,6,2,3,5,1,1,2,1,7
+"923",145499783,"Engelbrecht,S.","Susan  Engelbrecht",NA,3,3,NA,2,4,1,NA,1,1,1,2,3,NA,1,1,1,2,3,1,NA
+"924",145506097,"Mello,A.","Antonietta  Mello",NA,1,NA,NA,NA,2,NA,NA,2,1,NA,NA,3,3,NA,1,NA,NA,1,NA,NA
+"925",145508587,"Wen,J.","Jun  Wen",NA,1,2,NA,4,2,1,3,3,5,3,5,3,6,5,6,14,8,6,7,9
+"926",145517516,"Murillo,J.","Jesús  Murillo",NA,NA,2,5,NA,NA,2,3,1,NA,3,2,1,3,4,2,2,3,NA,NA,1
+"927",145519756,"Hall,W.W.","William W.  Hall",1,1,1,2,1,1,1,NA,2,1,2,2,3,4,1,6,NA,2,2,NA,2
+"928",145538607,"Valero,M.","Myriam  Valero",NA,3,1,NA,2,2,NA,1,1,NA,NA,2,2,2,1,1,2,2,NA,NA,1
+"929",145541736,"Baker,C.S.","Charles Scott Baker",1,3,NA,2,2,1,2,3,2,1,2,3,5,3,2,4,4,1,2,2,2
+"930",145552121,"Martin,F.M.","Francis M. Martin",1,4,3,NA,7,6,7,3,6,4,2,2,3,6,2,7,NA,4,NA,3,1
+"931",145579693,"Shiina,T.","Takashi  Shiina",1,3,7,2,5,4,4,8,5,5,3,3,6,3,3,3,3,6,2,5,1
+"932",145584615,"Brune,A.","Andreas  Brune",NA,1,NA,1,1,2,4,6,4,2,7,1,6,3,1,9,NA,4,4,3,NA
+"933",145595949,"Blackwell,M.","Meredith  Blackwell",NA,2,3,NA,7,2,6,5,4,9,2,5,1,NA,NA,4,2,1,NA,1,NA
+"934",145609306,"Rollinson,D.","David  Rollinson",NA,2,6,5,5,1,5,3,3,5,2,3,1,1,2,3,2,NA,2,NA,NA
+"935",145615657,"White,J.F.","James F. White",1,1,NA,2,NA,2,NA,1,2,NA,3,1,NA,1,1,2,NA,1,NA,1,NA
+"936",145616923,"Latorre,A.","Amparo  Latorre",1,3,2,4,3,2,4,2,1,5,1,6,1,1,9,2,2,9,5,4,NA
+"937",145643804,"Fujii,I.","Isao  Fujii",NA,NA,1,NA,NA,1,1,1,2,NA,NA,3,NA,1,1,NA,1,NA,NA,2,NA
+"938",145649378,"Vieira,J.","Jorge  Vieira",1,1,2,1,2,2,1,2,2,3,1,7,1,NA,2,2,2,NA,2,NA,2
+"939",145667145,"Hasegawa,M.","Masami  Hasegawa",4,4,2,4,4,6,9,1,3,8,6,2,7,2,1,3,4,NA,2,NA,NA
+"940",145678722,"Mathews,S.","Sarah  Mathews",NA,NA,1,2,1,2,NA,1,NA,1,3,2,NA,NA,1,2,2,2,5,NA,1
+"941",145689496,"Boller,T.","Thomas  Boller",1,1,2,3,3,2,NA,2,3,1,NA,3,NA,NA,2,1,3,1,NA,2,NA
+"942",145690700,"Makimura,K.","Koichi  Makimura",NA,1,1,1,1,NA,2,2,1,1,1,3,2,2,4,2,2,1,NA,2,1
+"943",145694086,"Rhee,S.R.","Sung-Keun Rhee Rhee",2,NA,NA,1,1,1,1,1,3,3,3,12,3,6,7,10,8,11,7,3,6
+"944",145703308,"Davis,R.E.","Robert Edward Davis",NA,1,NA,1,NA,2,3,1,2,6,2,1,2,1,1,2,6,2,6,3,1
+"945",145731446,"Parra,H.","Henri-Joseph  Parra",NA,NA,1,1,NA,2,NA,2,1,1,NA,NA,1,NA,NA,1,NA,NA,NA,3,NA
+"946",145734315,"Van Ranst,M.","Marc  Van Ranst",1,1,NA,1,2,4,2,6,11,8,9,11,4,7,5,5,12,8,19,3,5
+"947",145741448,"Joseph,L.","Leo  Joseph",NA,NA,1,NA,NA,3,1,1,NA,2,1,1,3,2,4,5,3,4,7,3,6
+"948",145744833,"Gibbs,R.A.","Richard A. Gibbs",11,3,NA,4,13,15,2,5,9,8,NA,7,1,3,3,8,5,11,6,NA,3
+"949",145744976,"Westerman,M.","Michael  Westerman",6,5,3,3,2,3,1,3,2,2,1,2,3,2,4,2,NA,NA,1,2,NA
+"950",145779687,"Burke,T.","Terry  Burke",3,3,1,2,NA,2,4,NA,NA,2,1,6,1,4,1,11,2,2,3,2,NA
+"951",145818878,"Lo,N.","Nathan  Lo",NA,1,2,2,NA,3,2,2,6,4,2,2,2,1,6,3,1,2,3,9,9
+"952",145878671,"Belov,K.","Katherine  Belov",NA,NA,2,NA,3,4,1,3,2,2,3,NA,6,2,NA,5,1,2,3,3,2
+"953",145891880,"Sosio,M.","Margherita  Sosio",NA,1,NA,2,NA,1,4,4,NA,6,NA,2,2,1,NA,1,2,1,NA,NA,1
+"954",145898945,"Nilsen,F.","Frank  Nilsen",NA,1,3,1,3,NA,NA,5,1,NA,1,3,3,NA,4,1,NA,2,6,1,2
+"955",145926458,"Zou,J.J.","Jun J. Zou",NA,NA,1,2,2,4,1,4,5,3,5,4,10,3,3,NA,7,1,NA,4,2
+"956",145955933,"Hoffmann,B.","Bernd  Hoffmann",NA,1,NA,1,NA,1,NA,2,NA,1,1,4,2,7,2,6,7,5,5,4,3
+"957",145968730,"Guan,Y.","Yi  Guan",NA,NA,1,2,2,6,7,1,9,8,9,11,5,2,7,5,5,5,5,2,NA
+"958",145980070,"Popov,V.L.","VSEVOLOD L. POPOV",2,NA,2,1,2,1,2,4,1,1,2,4,5,4,6,4,6,7,2,1,4
+"959",145983267,"Gottschalk,M.","Marcelo  Gottschalk",NA,1,NA,1,2,NA,3,2,1,3,1,1,5,2,NA,1,4,4,4,1,NA
+"960",145987141,"Harrach,B.","Balázs  Harrach",NA,3,NA,3,2,5,1,4,2,NA,2,1,1,4,4,3,5,5,2,1,NA
+"961",145991349,"Gunther,S.","Stephan  Günther",1,1,1,1,2,1,1,2,2,2,3,2,2,6,10,8,1,4,4,8,2
+"962",152267502,"Chase,M.W.","Mark W.  Chase",2,6,9,10,12,11,14,12,12,12,6,5,15,13,10,8,6,1,4,1,6
+"963",152462278,"Coutinho,T.A.","Teresa A.  Coutinho",NA,NA,1,3,5,2,NA,4,2,NA,3,1,3,6,2,5,1,1,NA,1,NA
+"964",152561702,"Nadler,S.A.","Steven A.  Nadler",1,3,1,6,1,NA,2,NA,4,4,2,2,4,1,2,4,6,1,7,3,1
+"965",152774855,"Lundkvist,A.","Ake  Lundkvist",3,1,4,NA,1,3,2,4,1,2,2,5,1,3,5,3,1,3,3,3,1
+"966",152875595,"Koga,R.","Ryuichi  Koga",NA,1,2,1,1,NA,1,NA,5,3,2,2,2,4,NA,4,5,3,2,NA,7
+"967",152875923,"Takeda,N.","Naokazu  Takeda",NA,1,NA,4,2,4,1,8,7,9,8,4,8,6,2,2,4,3,1,2,NA
+"968",153231029,"Lee,J.","Jae-Seong  Lee",NA,NA,1,1,NA,2,1,8,3,11,3,13,12,16,10,19,14,25,6,8,5
+"969",153480148,"Becnel,J.J.","James John Becnel",1,2,NA,2,2,2,1,2,1,2,1,4,1,1,4,2,2,1,2,2,1
+"970",153733385,"Casjens,S.R.","Sherwood R. Casjens",8,2,NA,2,NA,1,1,4,2,NA,NA,4,2,NA,9,3,1,1,1,NA,NA
+"971",153893966,"Mizutani,M.","Masaharu  Mizutani",1,2,1,1,1,1,NA,2,NA,3,2,1,NA,NA,4,3,NA,NA,1,2,3
+"972",1382487671,"Bonch-Osmolovskaya,E.A.","Elizaveta A. Bonch-Osmolovskaya",NA,2,2,4,5,3,5,3,4,2,3,7,11,4,9,8,8,4,5,11,6
+"973",1383170623,"Rossello-Mora,R.A.","Ramon A. Rossello-Mora",1,2,6,3,1,6,3,5,3,8,5,5,4,9,6,7,12,6,3,2,NA
+"974",1384084368,"Ruiz-Trillo,I.","Iñaki  Ruiz-Trillo",NA,2,2,NA,NA,2,NA,3,NA,1,NA,2,NA,3,2,2,3,NA,NA,NA,1
+"975",1389996503,"Rodriguez-Valera,F.","Francisco  Rodríguez-Valera",1,1,3,3,5,9,2,3,3,4,7,4,1,1,1,4,8,1,7,1,2
+"976",1396280866,"Sanders-Buell,E.E.","Eric E. Sanders-Buell",2,3,3,1,2,1,NA,2,4,NA,3,2,NA,1,3,2,3,NA,3,2,2
+"977",1397386800,"Mpoudi-Ngole,E.","Eitel  Mpoudi-Ngole",NA,NA,1,2,1,3,2,7,1,4,2,1,5,7,4,1,1,3,1,NA,NA
+"978",1397426853,"Bibollet-Ruche,F.","Frederick  Bibollet-Ruche",2,1,1,NA,1,3,5,8,2,6,5,3,2,1,NA,4,1,4,2,NA,4
+"979",1398064073,"St-Pierre,B.","Benoit  St-Pierre",NA,1,NA,1,NA,NA,NA,NA,5,NA,1,NA,NA,NA,2,4,3,NA,1,NA,NA
+"980",1398077846,"Hammond-Kosack,K.E.","Kim E.  Hammond-Kosack",1,2,NA,1,NA,NA,1,NA,1,NA,1,NA,1,5,1,1,NA,NA,3,NA,NA
+"981",1398323388,"El-Matbouli,M.","Mansour  El-Matbouli",NA,NA,1,NA,1,NA,1,2,2,1,1,NA,1,1,NA,NA,3,1,2,NA,NA
+"982",1398478238,"Navas-Castillo,J.","Jesús  Navas-Castillo",1,1,3,3,2,3,NA,1,NA,2,4,1,3,3,2,7,7,2,4,3,7
+"983",1398537464,"Inoue-Murayama,M.","Miho  Inoue-Murayama",NA,1,NA,6,1,2,1,3,2,4,3,5,NA,4,1,5,10,4,1,3,2
+"984",1398560824,"Barillas-Mury,C.","Carolina-V  Barillas-Mury",1,NA,1,1,NA,NA,NA,2,NA,2,1,NA,1,1,1,1,NA,NA,2,NA,NA
+"985",1398618620,"Garcia-Pichel,F.","Ferran  Garcia-Pichel",3,1,NA,3,3,5,1,NA,5,4,3,NA,8,1,NA,3,2,NA,1,1,1
+"986",1398728803,"Hofmann-Lehmann,R.","Regina  Hofmann-Lehmann",NA,1,1,NA,NA,2,1,1,2,2,4,4,5,9,1,3,3,3,3,5,4
+"987",1399068469,"Santos-Guerra,A.","Arnoldo  Santos-Guerra",NA,NA,3,1,3,4,NA,4,3,1,1,NA,NA,1,NA,4,NA,3,NA,1,NA
+"988",1400471981,"Boury-Esnault,N.","Nicole  Boury-Esnault",2,1,NA,NA,1,NA,1,1,NA,1,NA,1,3,1,1,2,1,NA,NA,NA,1
+"989",1401238147,"Monteiro-Vitorello,C.B.","Claudia Barros Monteiro-Vitorello",NA,NA,1,2,NA,1,1,3,2,1,NA,2,NA,NA,1,NA,1,NA,2,NA,NA
+"990",1401901895,"Garcia-Paris,M.","MARIO  GARCÍA‐PARÍS",NA,1,NA,1,NA,NA,3,1,3,3,4,1,3,1,2,NA,1,1,3,NA,NA
+"991",1404503883,"O'Grady,P.M.","Patrick Michael O’Grady",NA,1,1,NA,NA,4,2,NA,2,NA,NA,2,1,NA,2,6,2,1,1,1,NA
+"992",1484904782,"Murphy,W.J.","William J.  Murphy",NA,NA,3,3,10,NA,3,3,2,4,9,3,3,3,6,1,2,2,2,1,1
+"993",2061019026,"Kaneko,O.","Osamu  Kaneko",1,NA,NA,NA,3,4,3,3,2,1,NA,1,3,NA,2,7,2,3,NA,4,1
+"994",2106569804,"Widmer,F.","Franco  Widmer",NA,1,1,NA,1,1,1,2,2,6,1,4,2,1,2,1,1,1,2,NA,1
+"995",2107283532,"Thompson,R.C.","R. C. Andrew Thompson",NA,2,8,4,2,2,5,2,1,2,2,2,1,3,1,1,NA,NA,NA,3,2
+"996",2108115827,"Zhang,Y.","Ya-Ping  Zhang",1,1,NA,1,1,9,8,12,10,14,8,8,8,16,15,16,7,8,4,4,5
+"997",2109706457,"Kim,S.B.","Seung Bum Kim",NA,NA,1,NA,NA,2,4,6,13,10,7,4,2,7,3,4,4,4,6,6,3
+"998",2110085299,"Takahashi,K.","Kazuaki  Takahashi",2,NA,NA,1,NA,1,4,3,1,2,1,1,1,2,2,1,2,1,3,NA,3
+"999",2110315374,"Taylor,J.W.","John W. Taylor",NA,1,3,1,NA,2,5,3,1,7,1,1,2,NA,2,NA,3,1,NA,1,NA
+"1000",2111010098,"Wilson,R.K.","Richard K. Wilson",NA,1,NA,NA,4,NA,16,3,26,3,9,4,6,11,8,7,8,13,3,2,3
+"1001",2111368705,"Yamamoto,T.","Takashi  Yamamoto",NA,2,NA,NA,NA,1,NA,2,NA,1,NA,2,NA,4,1,NA,NA,2,1,NA,1
+"1002",2111445166,"Suzuki,H.","Hitoshi  Suzuki",NA,NA,2,4,NA,6,4,6,2,3,3,3,2,2,4,5,4,6,3,2,2
