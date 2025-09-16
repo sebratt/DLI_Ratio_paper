@@ -9,8 +9,8 @@ colnames(df)
 df$precision <- round(df$count_overlapping_names/df$count_datasets, 2)
 summary(df$precision)
 
-# there appears to be an issue with the count of overlapping authors. The values should be 0-1 
-# The issue is not too bad: only ~11% are over 1:
+# clean the count of overlapping authors data.  
+# identify rows with DLI ratio > 1 to clean up formatting:
 d <- subset(df, df$precision > 1)
 d
 100*(nrow(d)/nrow(df))
@@ -18,13 +18,12 @@ d
 d[13,445]
 View(d[13,])
 
-# okay, so we remove the rows with >1 precision?
 # let's calculate recall first 
 df$recall <-round(df$count_overlapping_names/df$count_publications, 2)
 e <- subset(df, df$recall > 1)
 e
 100*(nrow(e)/nrow(df))
-# great! only 13 rows with issues. Great Job Mrudang! V clever to format the names with lastNameFirstInitial in
+# great! only 13 rows with issues. Great job, Mrudang! V clever to format the names with lastNameFirstInitial in
 # camelCase.
 
 #F1 Score = 2 × (Precision × Recall) / (Precision + Recall)
