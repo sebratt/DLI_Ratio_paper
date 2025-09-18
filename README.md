@@ -22,6 +22,7 @@ Scripts for the regression analysis and visualizations.
 - CC_1997-2020.R 
 - DLI_career_age.R
 - F1score_DLIpaper.R
+- F1score_DLIpaper_Fig2_visualization.R
 - GLM_DLI_regression.R
 - active_authors_perform_classification.R 
 
